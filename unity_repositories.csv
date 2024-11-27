@@ -1,0 +1,31 @@
+Name,Description,Stars,URL
+was_changed,A Gemplugin to extend ActiveRecord's dirty objects to AFTER the save is called.,1,https://github.com/Unity-Technologies/was_changed
+factory_girl,,3,https://github.com/Unity-Technologies/factory_girl
+validates_existence_of,A small plugin to validate the existence of an AR record,2,https://github.com/Unity-Technologies/validates_existence_of
+panda,Video encoding made easy with AWS,2,https://github.com/Unity-Technologies/panda
+attachment_fu,"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",1,https://github.com/Unity-Technologies/attachment_fu
+serialize_location_header,Serialize the location header if it exists,3,https://github.com/Unity-Technologies/serialize_location_header
+mono,"Mono open source ECMA CLI, C# and .NET implementation.",1252,https://github.com/Unity-Technologies/mono
+cecil,Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.,27,https://github.com/Unity-Technologies/cecil
+monodevelop,MonoDevelop,101,https://github.com/Unity-Technologies/monodevelop
+boo-md-addins,MonoDevelop addins for Boo-based languages,7,https://github.com/Unity-Technologies/boo-md-addins
+MonoDevelop.Debugger.Soft.Unity,Soft debugger client for Unity,60,https://github.com/Unity-Technologies/MonoDevelop.Debugger.Soft.Unity
+unityscript,A JavaScript implementation based on the Boo programming language.,47,https://github.com/Unity-Technologies/unityscript
+boo-extensions,"Useful extensions, macros and attributes to the boo programming language.",4,https://github.com/Unity-Technologies/boo-extensions
+boo,The Boo Programming Language.,16,https://github.com/Unity-Technologies/boo
+monobuildtools,,57,https://github.com/Unity-Technologies/monobuildtools
+mongo-c-driver,C Driver for MongoDB,4,https://github.com/Unity-Technologies/mongo-c-driver
+ILSpy,.NET Decompiler,31,https://github.com/Unity-Technologies/ILSpy
+gtk,Fork of http://git.gnome.org/gtk+,6,https://github.com/Unity-Technologies/gtk
+GooglePlayLicenseVerification,Unity Android plugin example on how to interface the Google Play License Verification (LVL) servers,85,https://github.com/Unity-Technologies/GooglePlayLicenseVerification
+kaizen,,22,https://github.com/Unity-Technologies/kaizen
+CodeEditor,,45,https://github.com/Unity-Technologies/CodeEditor
+debugger,,6,https://github.com/Unity-Technologies/debugger
+ReferenceRewriter,Make it easy to rewrite references of .net assemblies.,14,https://github.com/Unity-Technologies/ReferenceRewriter
+katana,"Unity's fork of Buildbot, a Python-based continuous integration testing framework!",140,https://github.com/Unity-Technologies/katana
+hlsl2glslfork,HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.,18,https://github.com/Unity-Technologies/hlsl2glslfork
+glsl-optimizer,GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.,26,https://github.com/Unity-Technologies/glsl-optimizer
+SigningHelper,Utility for signing and verifying arbitrary files using .NET signing keys,4,https://github.com/Unity-Technologies/SigningHelper
+gradle,A powerful build system for the JVM,0,https://github.com/Unity-Technologies/gradle
+krait-signal-handler,,9,https://github.com/Unity-Technologies/krait-signal-handler
+android-jni-bridge,,48,https://github.com/Unity-Technologies/android-jni-bridge
