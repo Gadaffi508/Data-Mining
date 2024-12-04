@@ -1,0 +1,774 @@
+Name,Description,Stars,URL,Comment
+was_changed,A Gemplugin to extend ActiveRecord's dirty objects to AFTER the save is called.,1,https://github.com/Unity-Technologies/was_changed,Düşük popülerlik - Genel Unity paketi
+factory_girl,No description,3,https://github.com/Unity-Technologies/factory_girl,Düşük popülerlik - Genel Unity paketi
+validates_existence_of,A small plugin to validate the existence of an AR record,2,https://github.com/Unity-Technologies/validates_existence_of,Düşük popülerlik - Genel Unity paketi
+panda,Video encoding made easy with AWS,2,https://github.com/Unity-Technologies/panda,Düşük popülerlik - Genel Unity paketi
+attachment_fu,"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",1,https://github.com/Unity-Technologies/attachment_fu,Düşük popülerlik - Genel Unity paketi
+serialize_location_header,Serialize the location header if it exists,3,https://github.com/Unity-Technologies/serialize_location_header,Düşük popülerlik - Genel Unity paketi
+mono,"Mono open source ECMA CLI, C# and .NET implementation.",1252,https://github.com/Unity-Technologies/mono,Çok popüler - Genel Unity paketi
+cecil,Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.,27,https://github.com/Unity-Technologies/cecil,Düşük popülerlik - Genel Unity paketi
+monodevelop,MonoDevelop,101,https://github.com/Unity-Technologies/monodevelop,Orta düzey popülerlik - Genel Unity paketi
+boo-md-addins,MonoDevelop addins for Boo-based languages,7,https://github.com/Unity-Technologies/boo-md-addins,Düşük popülerlik - Genel Unity paketi
+MonoDevelop.Debugger.Soft.Unity,Soft debugger client for Unity,60,https://github.com/Unity-Technologies/MonoDevelop.Debugger.Soft.Unity,Düşük popülerlik - Genel Unity paketi
+unityscript,A JavaScript implementation based on the Boo programming language.,47,https://github.com/Unity-Technologies/unityscript,Düşük popülerlik - Genel Unity paketi
+boo-extensions,"Useful extensions, macros and attributes to the boo programming language.",4,https://github.com/Unity-Technologies/boo-extensions,Düşük popülerlik - Genel Unity paketi
+boo,The Boo Programming Language.,16,https://github.com/Unity-Technologies/boo,Düşük popülerlik - Genel Unity paketi
+monobuildtools,No description,57,https://github.com/Unity-Technologies/monobuildtools,Düşük popülerlik - Genel Unity paketi
+mongo-c-driver,C Driver for MongoDB,4,https://github.com/Unity-Technologies/mongo-c-driver,Düşük popülerlik - Genel Unity paketi
+ILSpy,.NET Decompiler,31,https://github.com/Unity-Technologies/ILSpy,Düşük popülerlik - Genel Unity paketi
+gtk,Fork of http://git.gnome.org/gtk+,6,https://github.com/Unity-Technologies/gtk,Düşük popülerlik - Genel Unity paketi
+GooglePlayLicenseVerification,Unity Android plugin example on how to interface the Google Play License Verification (LVL) servers,85,https://github.com/Unity-Technologies/GooglePlayLicenseVerification,Düşük popülerlik - Genel Unity paketi
+kaizen,No description,22,https://github.com/Unity-Technologies/kaizen,Düşük popülerlik - Genel Unity paketi
+CodeEditor,No description,45,https://github.com/Unity-Technologies/CodeEditor,Düşük popülerlik - Genel Unity paketi
+debugger,No description,6,https://github.com/Unity-Technologies/debugger,Düşük popülerlik - Genel Unity paketi
+ReferenceRewriter,Make it easy to rewrite references of .net assemblies.,14,https://github.com/Unity-Technologies/ReferenceRewriter,Düşük popülerlik - Genel Unity paketi
+katana,"Unity's fork of Buildbot, a Python-based continuous integration testing framework!",140,https://github.com/Unity-Technologies/katana,Orta düzey popülerlik - Genel Unity paketi
+hlsl2glslfork,HLSL to GLSL language translator based on ATI's HLSL2GLSL. Used in Unity.,18,https://github.com/Unity-Technologies/hlsl2glslfork,Düşük popülerlik - Genel Unity paketi
+glsl-optimizer,GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.,26,https://github.com/Unity-Technologies/glsl-optimizer,Düşük popülerlik - Genel Unity paketi
+SigningHelper,Utility for signing and verifying arbitrary files using .NET signing keys,4,https://github.com/Unity-Technologies/SigningHelper,Düşük popülerlik - Genel Unity paketi
+gradle,A powerful build system for the JVM,0,https://github.com/Unity-Technologies/gradle,Düşük popülerlik - Genel Unity paketi
+krait-signal-handler,No description,9,https://github.com/Unity-Technologies/krait-signal-handler,Düşük popülerlik - Genel Unity paketi
+android-jni-bridge,No description,48,https://github.com/Unity-Technologies/android-jni-bridge,Düşük popülerlik - Genel Unity paketi
+debugger-libs,Debugger libraries,11,https://github.com/Unity-Technologies/debugger-libs,Düşük popülerlik - Genel Unity paketi
+ios-deploy,"Install and debug iPhone apps from the command line, without using Xcode",47,https://github.com/Unity-Technologies/ios-deploy,Düşük popülerlik - Genel Unity paketi
+php-pango,Pango wrapper for PHP,0,https://github.com/Unity-Technologies/php-pango,Düşük popülerlik - Genel Unity paketi
+bdwgc,"The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehmgc) ",53,https://github.com/Unity-Technologies/bdwgc,Düşük popülerlik - Genel Unity paketi
+libatomic_ops,The atomic_ops project (Atomic memory update operations portable implementation),9,https://github.com/Unity-Technologies/libatomic_ops,Düşük popülerlik - Genel Unity paketi
+puppet-homes,Puppet module to manage home directory and ssh keys,0,https://github.com/Unity-Technologies/puppet-homes,Düşük popülerlik - Genel Unity paketi
+unity-ads,Unity Ads documentation repository,65,https://github.com/Unity-Technologies/unity-ads,Düşük popülerlik - Genel Unity paketi
+puppet-nginx,Puppet Module to manage NGINX on various UNIXes (with added FreeBSD),0,https://github.com/Unity-Technologies/puppet-nginx,Düşük popülerlik - Genel Unity paketi
+puppetlabs-concat,File concatenation system for Puppet,0,https://github.com/Unity-Technologies/puppetlabs-concat,Düşük popülerlik - Genel Unity paketi
+puppet-pkgng,A Puppet package provider for FreeBSD's PkgNG package manager.,0,https://github.com/Unity-Technologies/puppet-pkgng,Düşük popülerlik - Genel Unity paketi
+goamz,Amazon Library for Go,0,https://github.com/Unity-Technologies/goamz,Düşük popülerlik - Genel Unity paketi
+nginx-helper-remote-cache,An extension to nginx helper for working with remote caches,0,https://github.com/Unity-Technologies/nginx-helper-remote-cache,Düşük popülerlik - Genel Unity paketi
+hooktftp,Hook based tftp server written in Go (golang),0,https://github.com/Unity-Technologies/hooktftp,Düşük popülerlik - Genel Unity paketi
+MonoDevelop.UnityMode,A single MonoDevelop Addin that transforms a regular MonoDevelop into a version that is tightly integrated with Unity,19,https://github.com/Unity-Technologies/MonoDevelop.UnityMode,Düşük popülerlik - Genel Unity paketi
+MonoDevelop.UnityMode-Build,build script and dependencies for building a unitymode-monodevelop,5,https://github.com/Unity-Technologies/MonoDevelop.UnityMode-Build,Düşük popülerlik - Genel Unity paketi
+django-storages,Mirror from bitbucket + fixes,0,https://github.com/Unity-Technologies/django-storages,Düşük popülerlik - Genel Unity paketi
+UnityOBBDownloader,"This is Unity plugin for Android, intended to download .obb expansion files from Google Play.",34,https://github.com/Unity-Technologies/UnityOBBDownloader,Düşük popülerlik - Genel Unity paketi
+uncrustify,Code beautifier,44,https://github.com/Unity-Technologies/uncrustify,Düşük popülerlik - Genel Unity paketi
+editorconfig-visualstudio,EditorConfig Visual Studio Addin,7,https://github.com/Unity-Technologies/editorconfig-visualstudio,Düşük popülerlik - Genel Unity paketi
+curl,"Curl is a tool and libcurl is a library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",21,https://github.com/Unity-Technologies/curl,Düşük popülerlik - Genel Unity paketi
+temp-salt,Infrastructure automation and management system,8,https://github.com/Unity-Technologies/temp-salt,Düşük popülerlik - Genel Unity paketi
+qstat,New official qstat repository,121,https://github.com/Unity-Technologies/qstat,Orta düzey popülerlik - Genel Unity paketi
+omnisharp-server,HTTP wrapper around NRefactory allowing C# editor plugins to be written in any language.,4,https://github.com/Unity-Technologies/omnisharp-server,Düşük popülerlik - Genel Unity paketi
+winsvc,Windows service library written in go - Forked from http://code.google.com/p/winsvc/,0,https://github.com/Unity-Technologies/winsvc,Düşük popülerlik - Genel Unity paketi
+mysql-connector-python,Fork of version 2.0.4 of mysql-connector-python (and probably rebased at points) until upstream issues are fixed.,7,https://github.com/Unity-Technologies/mysql-connector-python,Düşük popülerlik - Genel Unity paketi
+puppetlabs-postgresql,Puppet module for managing PostgreSQL,0,https://github.com/Unity-Technologies/puppetlabs-postgresql,Düşük popülerlik - Genel Unity paketi
+golang-sys,Go packages for low-level interaction with the operating system,1,https://github.com/Unity-Technologies/golang-sys,Düşük popülerlik - Genel Unity paketi
+go-ole,win32 ole implementation for golang,0,https://github.com/Unity-Technologies/go-ole,Düşük popülerlik - Genel Unity paketi
+wmi,WMI for Go,1,https://github.com/Unity-Technologies/wmi,Düşük popülerlik - Genel Unity paketi
+puppet-redis,No description,0,https://github.com/Unity-Technologies/puppet-redis,Düşük popülerlik - Genel Unity paketi
+puppetlabs-mcollective,MCollective Server and Client Puppet Module,0,https://github.com/Unity-Technologies/puppetlabs-mcollective,Düşük popülerlik - Genel Unity paketi
+xmlrpc,Implementation of XMLRPC protocol in Go language.,0,https://github.com/Unity-Technologies/xmlrpc,Düşük popülerlik - Genel Unity paketi
+puppetlabs-rabbitmq,RabbitMQ Puppet Module,0,https://github.com/Unity-Technologies/puppetlabs-rabbitmq,Düşük popülerlik - Genel Unity paketi
+puppetdb,Centralized Puppet Storage,0,https://github.com/Unity-Technologies/puppetdb,Düşük popülerlik - Genel Unity paketi
+puppetlabs-puppetdb,A puppet module for installing and managing puppetdb,0,https://github.com/Unity-Technologies/puppetlabs-puppetdb,Düşük popülerlik - Genel Unity paketi
+testify,A sacred extension to the standard go testing package,0,https://github.com/Unity-Technologies/testify,Düşük popülerlik - Genel Unity paketi
+garethr-docker,Puppet module for managing docker,0,https://github.com/Unity-Technologies/garethr-docker,Düşük popülerlik - Genel Unity paketi
+veewee,Easing the building of vagrant boxes,0,https://github.com/Unity-Technologies/veewee,Düşük popülerlik - Genel Unity paketi
+puppet-module-puppetboard,Puppet module to install and manage puppetboard,0,https://github.com/Unity-Technologies/puppet-module-puppetboard,Düşük popülerlik - Genel Unity paketi
+com.unity.formats.alembic,Alembic importer and exporter plugin for Unity,796,https://github.com/Unity-Technologies/com.unity.formats.alembic,Popüler - Genel Unity paketi
+gometalinter,Concurrently run Go lint tools and normalise their output,0,https://github.com/Unity-Technologies/gometalinter,Düşük popülerlik - Araç paketi
+MonoDevelop.Boo.UnityScript.Addins,"new, simple, c# monodevelop language addins for unityscript and boo",3,https://github.com/Unity-Technologies/MonoDevelop.Boo.UnityScript.Addins,Düşük popülerlik - Genel Unity paketi
+monodevelop-build,Build scripts for MonoDevelop,6,https://github.com/Unity-Technologies/monodevelop-build,Düşük popülerlik - Genel Unity paketi
+hubot-pager-me,PagerDuty integration for Hubot,0,https://github.com/Unity-Technologies/hubot-pager-me,Düşük popülerlik - Genel Unity paketi
+AssetGraph,Visual Workflow Automation Tool for Unity.,1133,https://github.com/Unity-Technologies/AssetGraph,Çok popüler - Genel Unity paketi
+puppetlabs-registry,Puppet Module for managing the Windows Registry through custom types and providers,0,https://github.com/Unity-Technologies/puppetlabs-registry,Düşük popülerlik - Genel Unity paketi
+zabbix-community-docker,Dockerfiles for base community Docker Zabbix images,0,https://github.com/Unity-Technologies/zabbix-community-docker,Düşük popülerlik - Genel Unity paketi
+nunitv2,NUnit 2.x repository. NUnit V2 IS NO LONGER MAINTAINED OR UPDATED.  Bugs should be reported in the main NUnit 3.0 repository.,0,https://github.com/Unity-Technologies/nunitv2,Düşük popülerlik - Yapay zeka paketi
+docker-lloyd,Shipment insurance for docker containers,0,https://github.com/Unity-Technologies/docker-lloyd,Düşük popülerlik - Yapay zeka paketi
+docker-insurance,Docker backup solution for Docker data volumes,0,https://github.com/Unity-Technologies/docker-insurance,Düşük popülerlik - Genel Unity paketi
+websocket,A WebSocket implementation for Go.,1,https://github.com/Unity-Technologies/websocket,Düşük popülerlik - Genel Unity paketi
+nginx-range-cache,Allow range requests to be used to cache large remote files in nginx,0,https://github.com/Unity-Technologies/nginx-range-cache,Düşük popülerlik - Genel Unity paketi
+vscode-unity-debug,Unity debugging support for VS Code,461,https://github.com/Unity-Technologies/vscode-unity-debug,Orta düzey popülerlik - Genel Unity paketi
+vscode-mono-debug,A simple VS Code debug adapter for mono,9,https://github.com/Unity-Technologies/vscode-mono-debug,Düşük popülerlik - Genel Unity paketi
+django-courriers,A generic application to manage your newsletters,0,https://github.com/Unity-Technologies/django-courriers,Düşük popülerlik - Genel Unity paketi
+mfsbsd,mfsBSD,0,https://github.com/Unity-Technologies/mfsbsd,Düşük popülerlik - Genel Unity paketi
+python-mailchimp,Python client for v3 of MailChimp API,0,https://github.com/Unity-Technologies/python-mailchimp,Düşük popülerlik - Yapay zeka paketi
+mono-addins,"Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications.",2,https://github.com/Unity-Technologies/mono-addins,Düşük popülerlik - Genel Unity paketi
+giles,GILES: A Runtime Level Editor for Unity3D,770,https://github.com/Unity-Technologies/giles,Popüler - Genel Unity paketi
+zabbix-docker-monitoring,":whale: Monitoring of Docker containers - Docker image, template, C module",0,https://github.com/Unity-Technologies/zabbix-docker-monitoring,Düşük popülerlik - Yapay zeka paketi
+infinity_tile_shader,Shader snippets for Artomatix Infinity Tiles (Wang Tiles),54,https://github.com/Unity-Technologies/infinity_tile_shader,Düşük popülerlik - Genel Unity paketi
+redigo,Go client for Redis,1,https://github.com/Unity-Technologies/redigo,Düşük popülerlik - Genel Unity paketi
+emscripten,Emscripten: An LLVM-to-JavaScript Compiler,4,https://github.com/Unity-Technologies/emscripten,Düşük popülerlik - Genel Unity paketi
+emscripten-fastcomp,emscripten llvm,3,https://github.com/Unity-Technologies/emscripten-fastcomp,Düşük popülerlik - Genel Unity paketi
+emscripten-fastcomp-clang,emscripten clang,2,https://github.com/Unity-Technologies/emscripten-fastcomp-clang,Düşük popülerlik - Genel Unity paketi
+NSubstitute,A friendly substitute for .NET mocking frameworks.,14,https://github.com/Unity-Technologies/NSubstitute,Düşük popülerlik - Genel Unity paketi
+unity-ads-android,Unity Ads SDK for Android,226,https://github.com/Unity-Technologies/unity-ads-android,Orta düzey popülerlik - Genel Unity paketi
+unity-ads-ios,Unity Ads SDK for iOS,141,https://github.com/Unity-Technologies/unity-ads-ios,Orta düzey popülerlik - Genel Unity paketi
+binaryen,"Compiler infrastructure and toolchain library for WebAssembly, in C++",3,https://github.com/Unity-Technologies/binaryen,Düşük popülerlik - Yapay zeka paketi
+ShaderGraph,Unity ShaderGraph project,1195,https://github.com/Unity-Technologies/ShaderGraph,Çok popüler - Genel Unity paketi
+celerybeatredis,celery scheduler use redis,0,https://github.com/Unity-Technologies/celerybeatredis,Düşük popülerlik - Genel Unity paketi
+requests-aws4auth,Amazon Web Services version 4 authentication for the Python Requests module,0,https://github.com/Unity-Technologies/requests-aws4auth,Düşük popülerlik - Genel Unity paketi
+puppet-kapacitor,A Puppet module for installing and configuring Kapacitor - https://influxdata.com/time-series-platform/kapacitor ,0,https://github.com/Unity-Technologies/puppet-kapacitor,Düşük popülerlik - Genel Unity paketi
+celery,Distributed Task Queue (development branch),0,https://github.com/Unity-Technologies/celery,Düşük popülerlik - Genel Unity paketi
+unity-ads-cocos2dx,No description,15,https://github.com/Unity-Technologies/unity-ads-cocos2dx,Düşük popülerlik - Genel Unity paketi
+UnityPlayground,"A collection of simple scripts to create 2D physics game, intended for giving workshops to a young audience",878,https://github.com/Unity-Technologies/UnityPlayground,Popüler - Fizik paketi
+build-qt,No description,1,https://github.com/Unity-Technologies/build-qt,Düşük popülerlik - Genel Unity paketi
+NRefactory,NRefactory - Refactoring Your C# Code,4,https://github.com/Unity-Technologies/NRefactory,Düşük popülerlik - Genel Unity paketi
+golja-influxdb,Puppet module for InfluxDB,0,https://github.com/Unity-Technologies/golja-influxdb,Düşük popülerlik - Genel Unity paketi
+vividcortex-puppet,Puppet example for the installation of the VividCortex repository,0,https://github.com/Unity-Technologies/vividcortex-puppet,Düşük popülerlik - Genel Unity paketi
+user_data_app,User data App,1,https://github.com/Unity-Technologies/user_data_app,Düşük popülerlik - Genel Unity paketi
+timetracking_app,Zendesk official time-tracking app,4,https://github.com/Unity-Technologies/timetracking_app,Düşük popülerlik - Genel Unity paketi
+infping,"Parse fping output, store result in influxdb 0.9",0,https://github.com/Unity-Technologies/infping,Düşük popülerlik - Genel Unity paketi
+nunitv3,NUnit 3.0 Framework,4,https://github.com/Unity-Technologies/nunitv3,Düşük popülerlik - Genel Unity paketi
+ArtomatixImageLoader,No description,1,https://github.com/Unity-Technologies/ArtomatixImageLoader,Düşük popülerlik - Genel Unity paketi
+dhcpd-formula,No description,0,https://github.com/Unity-Technologies/dhcpd-formula,Düşük popülerlik - Genel Unity paketi
+unity-ads-engineintegration-test,No description,2,https://github.com/Unity-Technologies/unity-ads-engineintegration-test,Düşük popülerlik - Genel Unity paketi
+Fody,Extensible tool for weaving .net assemblies,4,https://github.com/Unity-Technologies/Fody,Düşük popülerlik - Genel Unity paketi
+NavMeshComponents,High Level API Components for Runtime NavMesh Building,3026,https://github.com/Unity-Technologies/NavMeshComponents,Çok popüler - Genel Unity paketi
+katana-dev-environment,Vagrant environment for Katana development.,1,https://github.com/Unity-Technologies/katana-dev-environment,Düşük popülerlik - Genel Unity paketi
+PostProcessing,Post Processing Stack,3709,https://github.com/Unity-Technologies/PostProcessing,Çok popüler - Genel Unity paketi
+ExCSS,A CSS Parser for .NET.  It's BADA55!,25,https://github.com/Unity-Technologies/ExCSS,Düşük popülerlik - Genel Unity paketi
+ScriptableRenderLoopScenes,Test scenes to use with Unity scriptable render loops,11,https://github.com/Unity-Technologies/ScriptableRenderLoopScenes,Düşük popülerlik - Render veya grafik paketi
+css-layout,A subset of CSS (specifically flex-box) re-implemented as a stand alone project for use primarily on mobile. Used by react-native,20,https://github.com/Unity-Technologies/css-layout,Düşük popülerlik - Genel Unity paketi
+elastalert,Easy & Flexible Alerting With ElasticSearch,0,https://github.com/Unity-Technologies/elastalert,Düşük popülerlik - Genel Unity paketi
+go-slack,Go library for the Slack API.,32,https://github.com/Unity-Technologies/go-slack,Düşük popülerlik - Genel Unity paketi
+smokeping-formula,http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html,0,https://github.com/Unity-Technologies/smokeping-formula,Düşük popülerlik - Genel Unity paketi
+logrus,"Structured, pluggable logging for Go.",0,https://github.com/Unity-Technologies/logrus,Düşük popülerlik - Genel Unity paketi
+VolumetricLighting,"Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights",1729,https://github.com/Unity-Technologies/VolumetricLighting,Çok popüler - Genel Unity paketi
+HLSLcc,DirectX shader bytecode cross compiler,854,https://github.com/Unity-Technologies/HLSLcc,Popüler - Genel Unity paketi
+puppet-rsyslog,Manage rsyslog through puppet,0,https://github.com/Unity-Technologies/puppet-rsyslog,Düşük popülerlik - Genel Unity paketi
+AssetBundles-Browser,Editor tool for viewing and debugging asset bundle contents before and after builds,2227,https://github.com/Unity-Technologies/AssetBundles-Browser,Çok popüler - Genel Unity paketi
+rabbitmq-formula,No description,0,https://github.com/Unity-Technologies/rabbitmq-formula,Düşük popülerlik - Genel Unity paketi
+redis-formula,Redis state,0,https://github.com/Unity-Technologies/redis-formula,Düşük popülerlik - Genel Unity paketi
+Tanto,Unity new code review and collaboration tool,19,https://github.com/Unity-Technologies/Tanto,Düşük popülerlik - Genel Unity paketi
+sensu-formula,Salt Stack formula to manage Sensu.,0,https://github.com/Unity-Technologies/sensu-formula,Düşük popülerlik - Genel Unity paketi
+corert,"This repo contains CoreRT, a .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying .NET Native compiler toolchain.",2,https://github.com/Unity-Technologies/corert,Düşük popülerlik - Yapay zeka paketi
+grafana-formula,No description,2,https://github.com/Unity-Technologies/grafana-formula,Düşük popülerlik - Genel Unity paketi
+BenchmarkDotNet,Powerful .NET library for benchmarking,10,https://github.com/Unity-Technologies/BenchmarkDotNet,Düşük popülerlik - Genel Unity paketi
+brotli,Brotli compression format,7,https://github.com/Unity-Technologies/brotli,Düşük popülerlik - Genel Unity paketi
+brotli.js,"A JavaScript port of the Brotli compression algorithm, as used in WOFF2",0,https://github.com/Unity-Technologies/brotli.js,Düşük popülerlik - Genel Unity paketi
+CSharpNativeCodeBuilder,No description,5,https://github.com/Unity-Technologies/CSharpNativeCodeBuilder,Düşük popülerlik - Genel Unity paketi
+com.unity.image-viewer,Validation package for the package manager,1,https://github.com/Unity-Technologies/com.unity.image-viewer,Düşük popülerlik - Genel Unity paketi
+Stugo.Interop,Dynamic P/Invoke helper,1,https://github.com/Unity-Technologies/Stugo.Interop,Düşük popülerlik - Genel Unity paketi
+UnityOctree,"A dynamic, loose octree implementation for Unity written in C#",305,https://github.com/Unity-Technologies/UnityOctree,Orta düzey popülerlik - Genel Unity paketi
+EditorXR,Author XR in XR,929,https://github.com/Unity-Technologies/EditorXR,Popüler - Genel Unity paketi
+input-prototype,Input prototype revealed here: https://blogs.unity3d.com/2016/04/12/developing-the-new-input-system-together-with-you/,27,https://github.com/Unity-Technologies/input-prototype,Düşük popülerlik - Genel Unity paketi
+graph-visualizer,Visualizer for your Playable graphs,639,https://github.com/Unity-Technologies/graph-visualizer,Popüler - Genel Unity paketi
+probuilder-vr,"Kinda like ProBuilder, but in virtual reality.",83,https://github.com/Unity-Technologies/probuilder-vr,Düşük popülerlik - Genel Unity paketi
+roslyn,"The .NET Compiler Platform (""Roslyn"") provides open-source C# and Visual Basic compilers with rich code analysis APIs.",36,https://github.com/Unity-Technologies/roslyn,Düşük popülerlik - Genel Unity paketi
+unittest-cpp,A lightweight unit testing framework for C++,4,https://github.com/Unity-Technologies/unittest-cpp,Düşük popülerlik - Genel Unity paketi
+git-unity-as,Convert a Unity Asset Server database to a git repository,4,https://github.com/Unity-Technologies/git-unity-as,Düşük popülerlik - Genel Unity paketi
+statsd,An efficient Statsd Go client.,1,https://github.com/Unity-Technologies/statsd,Düşük popülerlik - Genel Unity paketi
+Physical-Camera,Unity Component that can describes a physical camera's attributes.,92,https://github.com/Unity-Technologies/Physical-Camera,Düşük popülerlik - Genel Unity paketi
+runc,CLI tool for spawning and running containers according to the OCI specification,0,https://github.com/Unity-Technologies/runc,Düşük popülerlik - Yapay zeka paketi
+glide-pin,A plugin for glide that pins all dependencies from the lock file into the yaml file,5,https://github.com/Unity-Technologies/glide-pin,Düşük popülerlik - Genel Unity paketi
+XRLineRenderer,An XR-Focused line renderer that mimics rendering with 3d capsules while only using two quads worth of geometry.,303,https://github.com/Unity-Technologies/XRLineRenderer,Orta düzey popülerlik - Render veya grafik paketi
+BatchBreakingCause,This project demonstrates different cases when Unity has to break a batch while rendering.,364,https://github.com/Unity-Technologies/BatchBreakingCause,Orta düzey popülerlik - Render veya grafik paketi
+linker,No description,28,https://github.com/Unity-Technologies/linker,Düşük popülerlik - Genel Unity paketi
+OpenCppCoverage,Coverage tool for C++ code,20,https://github.com/Unity-Technologies/OpenCppCoverage,Düşük popülerlik - Genel Unity paketi
+reference-assemblies,Binary reference assemblies,0,https://github.com/Unity-Technologies/reference-assemblies,Düşük popülerlik - Genel Unity paketi
+PhysicsExamples2D,Examples of various Unity 2D Physics components and features.,546,https://github.com/Unity-Technologies/PhysicsExamples2D,Popüler - Fizik paketi
+com.autodesk.fbx,FBX SDK C# bindings,219,https://github.com/Unity-Technologies/com.autodesk.fbx,Orta düzey popülerlik - Genel Unity paketi
+Babylon.js,Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL,6,https://github.com/Unity-Technologies/Babylon.js,Düşük popülerlik - Genel Unity paketi
+pykube,Python client library for Kubernetes,1,https://github.com/Unity-Technologies/pykube,Düşük popülerlik - Genel Unity paketi
+crunch,Advanced DXTc texture compression and transcoding library,241,https://github.com/Unity-Technologies/crunch,Orta düzey popülerlik - Genel Unity paketi
+7-Zip-zstd,7-Zip with ZStandard Support,17,https://github.com/Unity-Technologies/7-Zip-zstd,Düşük popülerlik - Genel Unity paketi
+p7zip-zstd,p7zip with ZStandard support ,7,https://github.com/Unity-Technologies/p7zip-zstd,Düşük popülerlik - Genel Unity paketi
+testinfra,Testinfra test your infrastructures,1,https://github.com/Unity-Technologies/testinfra,Düşük popülerlik - Genel Unity paketi
+UnityMixedCallstack,Visual Studio native debugger extension to help debug native applications using Mono.,129,https://github.com/Unity-Technologies/UnityMixedCallstack,Orta düzey popülerlik - Genel Unity paketi
+UIElementsExamples,Unity project containing examples to use UIElements in the Editor,434,https://github.com/Unity-Technologies/UIElementsExamples,Orta düzey popülerlik - Yapay zeka paketi
+GenericFrameRecorder,This GitHub package is DEPRECATED. Please get the new Unity Recorder from the Asset Store (https://assetstore.unity.com/packages/essentials/unity-recorder-94079) Use the editor builtin Bug Reporter to report issues. You can track and vote for issues on the Issue Tracker (https://issuetracker.unity3d.com),534,https://github.com/Unity-Technologies/GenericFrameRecorder,Popüler - Genel Unity paketi
+poly2tri-cs,A port of poly2tri to C#,20,https://github.com/Unity-Technologies/poly2tri-cs,Düşük popülerlik - Genel Unity paketi
+KdTree,"A fast, generic, multi-dimensional Binary Search Tree written in C#",63,https://github.com/Unity-Technologies/KdTree,Düşük popülerlik - Genel Unity paketi
+sun-java-formula,Flexible provisioning for JDK and JRE tarballs,0,https://github.com/Unity-Technologies/sun-java-formula,Düşük popülerlik - Genel Unity paketi
+kafka-formula,Salt Formula for Kafka,2,https://github.com/Unity-Technologies/kafka-formula,Düşük popülerlik - Genel Unity paketi
+zookeeper-formula,No description,0,https://github.com/Unity-Technologies/zookeeper-formula,Düşük popülerlik - Genel Unity paketi
+hw2017-ab-variants-2,Asset bundle variants 2.0 example project,2,https://github.com/Unity-Technologies/hw2017-ab-variants-2,Düşük popülerlik - Genel Unity paketi
+keepalived-formula,No description,0,https://github.com/Unity-Technologies/keepalived-formula,Düşük popülerlik - Genel Unity paketi
+nginx-formula,Nginx Salt Formula,0,https://github.com/Unity-Technologies/nginx-formula,Düşük popülerlik - Genel Unity paketi
+haproxy-formula,No description,0,https://github.com/Unity-Technologies/haproxy-formula,Düşük popülerlik - Genel Unity paketi
+samba-formula,No description,0,https://github.com/Unity-Technologies/samba-formula,Düşük popülerlik - Genel Unity paketi
+salt-formula-glusterfs,Salt formula to setup GlusterFS server and client,0,https://github.com/Unity-Technologies/salt-formula-glusterfs,Düşük popülerlik - Genel Unity paketi
+apache-formula,Set up and configure the Apache HTTP server,1,https://github.com/Unity-Technologies/apache-formula,Düşük popülerlik - Genel Unity paketi
+telegraf-formula,Saltstack formula for installing and configuring telegraf,0,https://github.com/Unity-Technologies/telegraf-formula,Düşük popülerlik - Genel Unity paketi
+rsyslog-formula,No description,0,https://github.com/Unity-Technologies/rsyslog-formula,Düşük popülerlik - Genel Unity paketi
+elastic-formula,"Saltstack formula for installing elastic products such as elasticsearch, logstash and kibana",2,https://github.com/Unity-Technologies/elastic-formula,Düşük popülerlik - Genel Unity paketi
+memcached-formula,No description,1,https://github.com/Unity-Technologies/memcached-formula,Düşük popülerlik - Genel Unity paketi
+stunnel-formula,Saltstack formula for stunnel,0,https://github.com/Unity-Technologies/stunnel-formula,Düşük popülerlik - Genel Unity paketi
+artifactory-formula,Salt Stack Artifactory formula,0,https://github.com/Unity-Technologies/artifactory-formula,Düşük popülerlik - Genel Unity paketi
+consul-formula,http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html,0,https://github.com/Unity-Technologies/consul-formula,Düşük popülerlik - Genel Unity paketi
+zabbix-formula,No description,0,https://github.com/Unity-Technologies/zabbix-formula,Düşük popülerlik - Genel Unity paketi
+postgres-formula,No description,1,https://github.com/Unity-Technologies/postgres-formula,Düşük popülerlik - Genel Unity paketi
+ntp-formula,No description,0,https://github.com/Unity-Technologies/ntp-formula,Düşük popülerlik - Genel Unity paketi
+dante-formula,Dante SOCKS proxy Saltstack formula,0,https://github.com/Unity-Technologies/dante-formula,Düşük popülerlik - Genel Unity paketi
+influxdb-formula,Installs and configures the InfluxDB timeseries database,1,https://github.com/Unity-Technologies/influxdb-formula,Düşük popülerlik - Genel Unity paketi
+bind-formula,No description,0,https://github.com/Unity-Technologies/bind-formula,Düşük popülerlik - Genel Unity paketi
+BanditDungeon,Demo project using multi-armed bandit algorithm,100,https://github.com/Unity-Technologies/BanditDungeon,Orta düzey popülerlik - Genel Unity paketi
+MultiMaterial,No description,65,https://github.com/Unity-Technologies/MultiMaterial,Düşük popülerlik - Genel Unity paketi
+steam-runtime,A runtime environment for Steam applications,12,https://github.com/Unity-Technologies/steam-runtime,Düşük popülerlik - Genel Unity paketi
+com.unity.formats.fbx,FBX Exporter tools for editing and exchanging assets between the Unity and Digital Content Creation (DCC) tools such as Maya and 3DS Max,228,https://github.com/Unity-Technologies/com.unity.formats.fbx,Orta düzey popülerlik - Araç paketi
+2d-techdemos,Tech Demos for Unity 2D Features,952,https://github.com/Unity-Technologies/2d-techdemos,Popüler - Genel Unity paketi
+2d-extras,Fun 2D Stuff that we'd like to share!,1556,https://github.com/Unity-Technologies/2d-extras,Çok popüler - Genel Unity paketi
+2d-gamedemo-robodash,Robodash!,213,https://github.com/Unity-Technologies/2d-gamedemo-robodash,Orta düzey popülerlik - Genel Unity paketi
+UnityOptions,No description,139,https://github.com/Unity-Technologies/UnityOptions,Orta düzey popülerlik - Genel Unity paketi
+MonoProfileTools,No description,1,https://github.com/Unity-Technologies/MonoProfileTools,Düşük popülerlik - Genel Unity paketi
+mbedtls,"An open source, portable, easy to use, readable and flexible SSL library",4,https://github.com/Unity-Technologies/mbedtls,Düşük popülerlik - Genel Unity paketi
+salt-java-formula,Formula for installing JDK and JRE with SaltStack. Supports Oracle and OpenJDK.,0,https://github.com/Unity-Technologies/salt-java-formula,Düşük popülerlik - Genel Unity paketi
+DeLightingTool,De-Lighting tool,524,https://github.com/Unity-Technologies/DeLightingTool,Popüler - Genel Unity paketi
+flex,The Fast Lexical Analyzer,0,https://github.com/Unity-Technologies/flex,Düşük popülerlik - Genel Unity paketi
+go-ts3,A golang TeamSpeak 3 ServerQuery client,47,https://github.com/Unity-Technologies/go-ts3,Düşük popülerlik - Genel Unity paketi
+go-rrd,A golang client for talking to rrdcached,1,https://github.com/Unity-Technologies/go-rrd,Düşük popülerlik - Genel Unity paketi
+SkyboxPanoramicShader,Skybox shader for support of 360/180/cubemap video and static content,282,https://github.com/Unity-Technologies/SkyboxPanoramicShader,Orta düzey popülerlik - Genel Unity paketi
+libtorrent,an efficient feature complete C++ bittorrent implementation,5,https://github.com/Unity-Technologies/libtorrent,Düşük popülerlik - Genel Unity paketi
+Q-GridWorld,Demo project using tabular Q-learning algorithm,139,https://github.com/Unity-Technologies/Q-GridWorld,Orta düzey popülerlik - Genel Unity paketi
+unityscript2csharp,"Tool to convert UnityScript (a.k.a, Javascript in Unity parlance) to C#",147,https://github.com/Unity-Technologies/unityscript2csharp,Orta düzey popülerlik - Genel Unity paketi
+dotpackage-assistant,A Unity C# Script to provide basic version-control-aware .unitypackage management,1,https://github.com/Unity-Technologies/dotpackage-assistant,Düşük popülerlik - Genel Unity paketi
+GenericRecorder-MovieRecorderPlugin,FrameRecorder recorder plugin to record MP4's with audio using Unity API's only.,61,https://github.com/Unity-Technologies/GenericRecorder-MovieRecorderPlugin,Düşük popülerlik - Genel Unity paketi
+GenericRecorder-FrameCapturerPlugin,FrameRecorder recorder plugin that integrates the FrameCapturer project with the Frame Recorder,15,https://github.com/Unity-Technologies/GenericRecorder-FrameCapturerPlugin,Düşük popülerlik - Genel Unity paketi
+ml-agents,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.,17292,https://github.com/Unity-Technologies/ml-agents,Çok popüler - Yapay zeka paketi
+unity-cache-server,Unity CacheServer optimized for multi-client local networks,552,https://github.com/Unity-Technologies/unity-cache-server,Popüler - Genel Unity paketi
+go-source,A golang source library,16,https://github.com/Unity-Technologies/go-source,Düşük popülerlik - Genel Unity paketi
+go-battleye,A golang BattlEye client libary,11,https://github.com/Unity-Technologies/go-battleye,Düşük popülerlik - Genel Unity paketi
+SimpleAnimation,A simple Animation Component that leverages PlayableGraphs,601,https://github.com/Unity-Technologies/SimpleAnimation,Popüler - Genel Unity paketi
+triangle.net,No description,35,https://github.com/Unity-Technologies/triangle.net,Düşük popülerlik - Genel Unity paketi
+InputSystem,An efficient and versatile input system for Unity.,1437,https://github.com/Unity-Technologies/InputSystem,Çok popüler - Genel Unity paketi
+go-utils,A set of golang utility packages,2,https://github.com/Unity-Technologies/go-utils,Düşük popülerlik - Genel Unity paketi
+UTF_Suites_Lighting,No description,2,https://github.com/Unity-Technologies/UTF_Suites_Lighting,Düşük popülerlik - Genel Unity paketi
+UTF_Tests_Lighting,No description,5,https://github.com/Unity-Technologies/UTF_Tests_Lighting,Düşük popülerlik - Genel Unity paketi
+Unity.Mathematics,The C# math library used in Unity providing vector types and math functions with a shader like syntax,1388,https://github.com/Unity-Technologies/Unity.Mathematics,Çok popüler - Genel Unity paketi
+UTF_Suites_Animation,No description,2,https://github.com/Unity-Technologies/UTF_Suites_Animation,Düşük popülerlik - Genel Unity paketi
+UTF_Tests_Animation,No description,1,https://github.com/Unity-Technologies/UTF_Tests_Animation,Düşük popülerlik - Genel Unity paketi
+NSubstitute.Elevated,Extension to NSubstitute that provides mocking of concrete methods and statics,12,https://github.com/Unity-Technologies/NSubstitute.Elevated,Düşük popülerlik - Genel Unity paketi
+go-cticker,A clock based ticker library for golang,7,https://github.com/Unity-Technologies/go-cticker,Düşük popülerlik - Genel Unity paketi
+rat-rnn,Simulate Rat neural activity in the maze,42,https://github.com/Unity-Technologies/rat-rnn,Düşük popülerlik - Genel Unity paketi
+usd-unity-sdk,Integration of Pixar's Universal Scene Description into Unity. UPDATE: This package has been superseded by our new bundle of USD packages. Please see README & link below for further details.,500,https://github.com/Unity-Technologies/usd-unity-sdk,Popüler - Yapay zeka paketi
+markdig,"A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET",7,https://github.com/Unity-Technologies/markdig,Düşük popülerlik - Genel Unity paketi
+com.unity.cinemachine,Smart camera tools for passionate creators,523,https://github.com/Unity-Technologies/com.unity.cinemachine,Popüler - Araç paketi
+msbuild,The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.,3,https://github.com/Unity-Technologies/msbuild,Düşük popülerlik - Genel Unity paketi
+VR-Spectator-Sample,Sample project for understanding how to VR Spectate in Unity,46,https://github.com/Unity-Technologies/VR-Spectator-Sample,Düşük popülerlik - Genel Unity paketi
+360-Video-Heatmaps,Heatmaps for 360 Video,53,https://github.com/Unity-Technologies/360-Video-Heatmaps,Düşük popülerlik - Genel Unity paketi
+tundra,Tundra is a code build system that tries to be accurate and fast for incremental builds,39,https://github.com/Unity-Technologies/tundra,Düşük popülerlik - Genel Unity paketi
+logzio-dotnet,"Logz.io shippers for .NET frameworks, currently including log4net and NLog.",2,https://github.com/Unity-Technologies/logzio-dotnet,Düşük popülerlik - Genel Unity paketi
+com.unity.netcode.gameobjects,Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.,2156,https://github.com/Unity-Technologies/com.unity.netcode.gameobjects,Çok popüler - Genel Unity paketi
+android-libunwind,Unity specific customizations to Android's libunwind library,15,https://github.com/Unity-Technologies/android-libunwind,Düşük popülerlik - Genel Unity paketi
+ConditionalCompilationUtility,Automatically add defines upon the detection of predicate classes,124,https://github.com/Unity-Technologies/ConditionalCompilationUtility,Orta düzey popülerlik - Genel Unity paketi
+AutoLOD,Automatic LOD generation + scene optimization,1861,https://github.com/Unity-Technologies/AutoLOD,Çok popüler - Genel Unity paketi
+ftpserver,golang ftp server library with a sample implementation,1,https://github.com/Unity-Technologies/ftpserver,Düşük popülerlik - Genel Unity paketi
+UnityMeshSimplifier,Mesh simplification for Unity.,363,https://github.com/Unity-Technologies/UnityMeshSimplifier,Orta düzey popülerlik - Genel Unity paketi
+symbolstrip,A tool to remove symbols from .NET Assemblies,6,https://github.com/Unity-Technologies/symbolstrip,Düşük popülerlik - Genel Unity paketi
+ToolsCollection,A collection of all the small tools we,181,https://github.com/Unity-Technologies/ToolsCollection,Orta düzey popülerlik - Araç paketi
+BoatAttack,Demo Project using the Universal RP from Unity3D,2568,https://github.com/Unity-Technologies/BoatAttack,Çok popüler - Genel Unity paketi
+homebrew-dotnet-updatepkg,Utility script that can consolidate and update nuget packages across projects,2,https://github.com/Unity-Technologies/homebrew-dotnet-updatepkg,Düşük popülerlik - Genel Unity paketi
+progroups,Organize your scene with groups and visibility toggles.,33,https://github.com/Unity-Technologies/progroups,Düşük popülerlik - Genel Unity paketi
+ScriptableRenderPipelineData,Data for Scriptable Render Pipeline,96,https://github.com/Unity-Technologies/ScriptableRenderPipelineData,Düşük popülerlik - Render veya grafik paketi
+ProBuilder-API-Examples,"This code has moved into the ProBuilder repository under ""Samples~""",113,https://github.com/Unity-Technologies/ProBuilder-API-Examples,Orta düzey popülerlik - Genel Unity paketi
+Animation-Instancing,This technique is designed to instance Characters(SkinnedMeshRender). ,1676,https://github.com/Unity-Technologies/Animation-Instancing,Çok popüler - Render veya grafik paketi
+2d-animation-samples,Samples for 2D Animation features.,199,https://github.com/Unity-Technologies/2d-animation-samples,Orta düzey popülerlik - Genel Unity paketi
+2d-spriteshape-samples,Samples for the 2D SpriteShape feature.,210,https://github.com/Unity-Technologies/2d-spriteshape-samples,Orta düzey popülerlik - Genel Unity paketi
+exampleunity,An example Unity project.,3,https://github.com/Unity-Technologies/exampleunity,Düşük popülerlik - Genel Unity paketi
+EntityComponentSystemSamples,No description,7257,https://github.com/Unity-Technologies/EntityComponentSystemSamples,Çok popüler - Genel Unity paketi
+UniteAustinTechnicalPresentation,No description,764,https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation,Popüler - Genel Unity paketi
+UnityCsReference,Unity C# reference source code.,11924,https://github.com/Unity-Technologies/UnityCsReference,Çok popüler - Genel Unity paketi
+SuperScience,Gems of Unity Labs for our user-base.,719,https://github.com/Unity-Technologies/SuperScience,Popüler - Genel Unity paketi
+redsync,Distributed mutual exclusion lock using Redis for Go,1,https://github.com/Unity-Technologies/redsync,Düşük popülerlik - Genel Unity paketi
+Standard-Assets-Characters,Unity Standard Asset Controllers,607,https://github.com/Unity-Technologies/Standard-Assets-Characters,Popüler - Genel Unity paketi
+vector-graphics-samples,SVG and Vector Graphics Sample Project,193,https://github.com/Unity-Technologies/vector-graphics-samples,Orta düzey popülerlik - Render veya grafik paketi
+guid-based-reference,A component for giving Game Objects a GUID and a class to create references to objects in any Scene by GUID,629,https://github.com/Unity-Technologies/guid-based-reference,Popüler - Genel Unity paketi
+gitlab_ci_test,No description,1,https://github.com/Unity-Technologies/gitlab_ci_test,Düşük popülerlik - Genel Unity paketi
+2d-pixel-perfect,Pixel Perfect Camera,243,https://github.com/Unity-Technologies/2d-pixel-perfect,Orta düzey popülerlik - Genel Unity paketi
+ShaderForge,No description,28,https://github.com/Unity-Technologies/ShaderForge,Düşük popülerlik - Genel Unity paketi
+MissilesPerfectMaster,A compute shader demo for Unite 2018 Tokyo.,178,https://github.com/Unity-Technologies/MissilesPerfectMaster,Orta düzey popülerlik - Genel Unity paketi
+Gamekit3D,No description,196,https://github.com/Unity-Technologies/Gamekit3D,Orta düzey popülerlik - Genel Unity paketi
+EndlessRunnerSampleGame,Repository for the Endless Runner Game Sample (Trash Dash),386,https://github.com/Unity-Technologies/EndlessRunnerSampleGame,Orta düzey popülerlik - Genel Unity paketi
+hot-fuzz,HotFuzz is a fuzz testing utility that generates random data and sends it to a service's endpoint over HTTP or HTTPS based on a given fuzzing model written in JSON.,18,https://github.com/Unity-Technologies/hot-fuzz,Düşük popülerlik - Genel Unity paketi
+mono-unity,Unity extensions for Mono,11,https://github.com/Unity-Technologies/mono-unity,Düşük popülerlik - Genel Unity paketi
+SharedSpheres,An example project to demonstrate an AR shared multiplayer experience using Unity ARKit Plugin for ARKit 2 and UNet,82,https://github.com/Unity-Technologies/SharedSpheres,Düşük popülerlik - Genel Unity paketi
+protopolis,Unity environment with assets and packages to build a city.,9,https://github.com/Unity-Technologies/protopolis,Düşük popülerlik - Genel Unity paketi
+animation-jobs-samples,Code samples using the animation C# jobs feature.,505,https://github.com/Unity-Technologies/animation-jobs-samples,Popüler - Genel Unity paketi
+arfoundation-samples,Example content for Unity projects based on AR Foundation,3086,https://github.com/Unity-Technologies/arfoundation-samples,Çok popüler - Genel Unity paketi
+vast,Golang VAST 3.0 library,1,https://github.com/Unity-Technologies/vast,Düşük popülerlik - Genel Unity paketi
+procore-legacy-docs,No description,1,https://github.com/Unity-Technologies/procore-legacy-docs,Düşük popülerlik - Genel Unity paketi
+facial-ar-remote,**This project is discontinued** Facial AR Remote is a tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone.,489,https://github.com/Unity-Technologies/facial-ar-remote,Orta düzey popülerlik - Genel Unity paketi
+hw18-adventuregame,No description,16,https://github.com/Unity-Technologies/hw18-adventuregame,Düşük popülerlik - Genel Unity paketi
+influxdata-docker,Official docker images for the influxdata stack,0,https://github.com/Unity-Technologies/influxdata-docker,Düşük popülerlik - Genel Unity paketi
+openrtb,No description,5,https://github.com/Unity-Technologies/openrtb,Düşük popülerlik - Genel Unity paketi
+pythonnet,Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.,91,https://github.com/Unity-Technologies/pythonnet,Düşük popülerlik - Genel Unity paketi
+resonance-audio,Resonance Audio Source Code,4,https://github.com/Unity-Technologies/resonance-audio,Düşük popülerlik - Genel Unity paketi
+proxysql,Multiplay-enhanced ProxySQL (ONLY FOR 1.4.9 BRANCH)! See upstream for more helpful description.,0,https://github.com/Unity-Technologies/proxysql,Düşük popülerlik - Genel Unity paketi
+ReproProjectWizard,Quickly create a new project that contains a small subset of the assets in your full project.,45,https://github.com/Unity-Technologies/ReproProjectWizard,Düşük popülerlik - Yapay zeka paketi
+XRAcceptanceTests,"This project is used to verify behavior of Unity configurations, compare features between Unity releases, and test for changes in performance.",35,https://github.com/Unity-Technologies/XRAcceptanceTests,Düşük popülerlik - Genel Unity paketi
+XRAutomatedTests,"XRAutomatedTests is where you can find functional, graphics, performance, and other types of automated tests for your XR Unity development. ",102,https://github.com/Unity-Technologies/XRAutomatedTests,Orta düzey popülerlik - Render veya grafik paketi
+PerformanceBenchmarkReporter,"The Unity Performance Benchmark tool enables partners and developers to establish benchmark samples and measurements using the Performance Testing package, then use these benchmark values to compare subsequent performance test results in an html output utilizing graphical visualizations.",121,https://github.com/Unity-Technologies/PerformanceBenchmarkReporter,Orta düzey popülerlik - Genel Unity paketi
+go-xgboost,XGBoost bindings for golang,76,https://github.com/Unity-Technologies/go-xgboost,Düşük popülerlik - Genel Unity paketi
+AnotherThreadECS,A demo made with ECS,113,https://github.com/Unity-Technologies/AnotherThreadECS,Orta düzey popülerlik - Genel Unity paketi
+storage-transfer-sync,No description,3,https://github.com/Unity-Technologies/storage-transfer-sync,Düşük popülerlik - Genel Unity paketi
+marathon-envs,A set of high-dimensional continuous control environments for use with Unity ML-Agents Toolkit.,299,https://github.com/Unity-Technologies/marathon-envs,Orta düzey popülerlik - Genel Unity paketi
+VFXToolbox,Additional tools for Visual Effect Artists,1148,https://github.com/Unity-Technologies/VFXToolbox,Çok popüler - Araç paketi
+RadeonRays_SDK,Radeon Rays is ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU,7,https://github.com/Unity-Technologies/RadeonRays_SDK,Düşük popülerlik - Genel Unity paketi
+kubernetes-ci-cd,https://www.linux.com/blog/learn/chapter/Intro-to-Kubernetes/2017/5/set-cicd-pipeline-kubernetes-part-1-overview,1,https://github.com/Unity-Technologies/kubernetes-ci-cd,Düşük popülerlik - Genel Unity paketi
+corefx,This repository contains the foundational libraries that make up the .NET Core development stack.,3,https://github.com/Unity-Technologies/corefx,Düşük popülerlik - Yapay zeka paketi
+tk-config-unity,No description,7,https://github.com/Unity-Technologies/tk-config-unity,Düşük popülerlik - Genel Unity paketi
+tk-unity,No description,9,https://github.com/Unity-Technologies/tk-unity,Düşük popülerlik - Genel Unity paketi
+Onslaught,A multiplatform XR sample game with no third-party packages.,112,https://github.com/Unity-Technologies/Onslaught,Orta düzey popülerlik - Genel Unity paketi
+XRInputTests,Manual Input tests that are used by the Unity X-Reality Quality Assurance team to understand status across virtual reality and augmented reality platforms.,44,https://github.com/Unity-Technologies/XRInputTests,Düşük popülerlik - Genel Unity paketi
+UnetEncryptionExample,"Contains a reference implementation of a native Unet encryption plugin, as well as a very small example Unity project that uses the plugin.",23,https://github.com/Unity-Technologies/UnetEncryptionExample,Düşük popülerlik - Yapay zeka paketi
+kubernetes-deploy,A Go module for deploying to Kubernetes and retrieving status of that deploy. Useful for deploy bots.,9,https://github.com/Unity-Technologies/kubernetes-deploy,Düşük popülerlik - Genel Unity paketi
+TerrainToolSamples,"Unity has archived the TerrainToolSamples repository. For future development, please use the Terrain Tools package.",218,https://github.com/Unity-Technologies/TerrainToolSamples,Orta düzey popülerlik - Araç paketi
+Graphics-Test-Framework-Examples,Example project for https://github.com/Unity-Technologies/Graphics-Test-Framework,7,https://github.com/Unity-Technologies/Graphics-Test-Framework-Examples,Düşük popülerlik - Render veya grafik paketi
+sqlx,general purpose extensions to golang's database/sql,0,https://github.com/Unity-Technologies/sqlx,Düşük popülerlik - Genel Unity paketi
+FPSSample,A first person multiplayer shooter example project in Unity,4901,https://github.com/Unity-Technologies/FPSSample,Çok popüler - Genel Unity paketi
+BackgroundDownload,Plugins for mobile platforms to enable file downloads in background,724,https://github.com/Unity-Technologies/BackgroundDownload,Popüler - Genel Unity paketi
+profiler-snapshot-tool,Tool to make it easier to profile the editor without having the profiler window open. To use it: Tests/Profiler/Toggle Snapshot.,22,https://github.com/Unity-Technologies/profiler-snapshot-tool,Düşük popülerlik - Genel Unity paketi
+multiplayer,Unity multiplayer packages and samples,1312,https://github.com/Unity-Technologies/multiplayer,Çok popüler - Genel Unity paketi
+PrefabAPIExamples,Example code using the Prefab API,99,https://github.com/Unity-Technologies/PrefabAPIExamples,Düşük popülerlik - Genel Unity paketi
+com.unity.probuilder,No description,356,https://github.com/Unity-Technologies/com.unity.probuilder,Orta düzey popülerlik - Genel Unity paketi
+asset-auditing-tools,A set of Editor tools to audit project assets and correct errors,76,https://github.com/Unity-Technologies/asset-auditing-tools,Düşük popülerlik - Araç paketi
+TraceEventProfiler,Capture Unity profile data to the Trace Event Format using the Unity Profiler Plugin API,22,https://github.com/Unity-Technologies/TraceEventProfiler,Düşük popülerlik - Genel Unity paketi
+SRPBatcherBenchmark,various benchmark scenes for SRP batcher ( both LWRP & HDRP ),212,https://github.com/Unity-Technologies/SRPBatcherBenchmark,Orta düzey popülerlik - Genel Unity paketi
+go-openrtb,OpenRTB v2.5 / Native v1.2 types for Go programming language (Golang),2,https://github.com/Unity-Technologies/go-openrtb,Düşük popülerlik - Genel Unity paketi
+obstacle-tower-challenge,Starter Kit for the Unity Obstacle Tower challenge,119,https://github.com/Unity-Technologies/obstacle-tower-challenge,Orta düzey popülerlik - Genel Unity paketi
+VisualEffectGraph-Samples,Visual Effect Graph - Samples Project,1902,https://github.com/Unity-Technologies/VisualEffectGraph-Samples,Çok popüler - Genel Unity paketi
+obstacle-tower-env,Obstacle Tower Environment,542,https://github.com/Unity-Technologies/obstacle-tower-env,Popüler - Genel Unity paketi
+NotificationsSamples,Sample project for Unity Notifications,285,https://github.com/Unity-Technologies/NotificationsSamples,Orta düzey popülerlik - Genel Unity paketi
+VehicleTools,This sample project provides a series of tools to rig wheeled vehicles,139,https://github.com/Unity-Technologies/VehicleTools,Orta düzey popülerlik - Araç paketi
+SimpleIKSolver,No description,53,https://github.com/Unity-Technologies/SimpleIKSolver,Düşük popülerlik - Genel Unity paketi
+ZombieObjectDetector,"Tool for detecting ""Fake Null"" C# instances.",154,https://github.com/Unity-Technologies/ZombieObjectDetector,Orta düzey popülerlik - Genel Unity paketi
+SplineToolTutorial,No description,63,https://github.com/Unity-Technologies/SplineToolTutorial,Düşük popülerlik - Genel Unity paketi
+UIElementsUniteLATurretDemo,Demo Used in Unite LA 2018 UIElements talk.,75,https://github.com/Unity-Technologies/UIElementsUniteLATurretDemo,Düşük popülerlik - Genel Unity paketi
+zlib,A massively spiffy yet delicately unobtrusive compression library.,7,https://github.com/Unity-Technologies/zlib,Düşük popülerlik - Genel Unity paketi
+Addressables-Sample,Demo project using Addressables package,1319,https://github.com/Unity-Technologies/Addressables-Sample,Çok popüler - Genel Unity paketi
+Timeline-MessageMarker,Timeline Message markers,60,https://github.com/Unity-Technologies/Timeline-MessageMarker,Düşük popülerlik - Genel Unity paketi
+2d-animation-v2-samples,Samples for 2D Animation v2.,54,https://github.com/Unity-Technologies/2d-animation-v2-samples,Düşük popülerlik - Genel Unity paketi
+com.unity.integrations.shotgrid,No description,11,https://github.com/Unity-Technologies/com.unity.integrations.shotgrid,Düşük popülerlik - Genel Unity paketi
+ShaderGraphFeatureDemo_LitMasterNode,Simple HD RP project to showcase new Lit master node.,71,https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode,Düşük popülerlik - Genel Unity paketi
+film-tv-toolbox,"Collection of experimental, proof of concept or helper tools for Film / TV productions.",103,https://github.com/Unity-Technologies/film-tv-toolbox,Orta düzey popülerlik - Araç paketi
+FontainebleauDemo,Fontainebleau demo,1118,https://github.com/Unity-Technologies/FontainebleauDemo,Çok popüler - Yapay zeka paketi
+HLODSystem,No description,886,https://github.com/Unity-Technologies/HLODSystem,Popüler - Genel Unity paketi
+video-recorder,Unity ML-Agents Toolkit VideoRecorder Plugin,39,https://github.com/Unity-Technologies/video-recorder,Düşük popülerlik - Genel Unity paketi
+DevicePortalTool,A command line program to execute Windows Device Portal REST APIs on a remote Windows 10 device.,4,https://github.com/Unity-Technologies/DevicePortalTool,Düşük popülerlik - Genel Unity paketi
+TermsOfService,Current and prior versions of the terms that apply to your use of the Unity Editor software.,175,https://github.com/Unity-Technologies/TermsOfService,Orta düzey popülerlik - Genel Unity paketi
+test-framework-training,No description,14,https://github.com/Unity-Technologies/test-framework-training,Düşük popülerlik - Genel Unity paketi
+ARFoundationGDC2019,AR Foundation demo shown on stage at Unity's 2019 GDC Keynote,29,https://github.com/Unity-Technologies/ARFoundationGDC2019,Düşük popülerlik - Genel Unity paketi
+UniversalRenderingExamples,This project contains a collection of Custom Renderer examples. This will be updated as we refine the feature and add more options.,2067,https://github.com/Unity-Technologies/UniversalRenderingExamples,Çok popüler - Render veya grafik paketi
+truss,Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.,1,https://github.com/Unity-Technologies/truss,Düşük popülerlik - Yapay zeka paketi
+ml-agents-dots,DOTS compatible version of ML-Agents,19,https://github.com/Unity-Technologies/ml-agents-dots,Düşük popülerlik - Genel Unity paketi
+ml-agents-grpc,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",3,https://github.com/Unity-Technologies/ml-agents-grpc,Düşük popülerlik - Genel Unity paketi
+qtbase,No description,5,https://github.com/Unity-Technologies/qtbase,Düşük popülerlik - Genel Unity paketi
+t4,T4 text templating engine,5,https://github.com/Unity-Technologies/t4,Düşük popülerlik - Genel Unity paketi
+list,The Public Suffix List,1,https://github.com/Unity-Technologies/list,Düşük popülerlik - Genel Unity paketi
+SystemWrapper,.NET library for easier testing of system APIs.,2,https://github.com/Unity-Technologies/SystemWrapper,Düşük popülerlik - Genel Unity paketi
+UnityTestRunnerResultsReporter,No description,37,https://github.com/Unity-Technologies/UnityTestRunnerResultsReporter,Düşük popülerlik - Genel Unity paketi
+Benchmark,No description,21,https://github.com/Unity-Technologies/Benchmark,Düşük popülerlik - Genel Unity paketi
+jpt-mobile-perf-runner,Repository for the scripts used in testing performance on Android and iOS,9,https://github.com/Unity-Technologies/jpt-mobile-perf-runner,Düşük popülerlik - Genel Unity paketi
+PotatoBenchmark,No description,59,https://github.com/Unity-Technologies/PotatoBenchmark,Düşük popülerlik - Genel Unity paketi
+xxHash,Extremely fast non-cryptographic hash algorithm,9,https://github.com/Unity-Technologies/xxHash,Düşük popülerlik - Genel Unity paketi
+otto,Otto sample project for the AI Planner,122,https://github.com/Unity-Technologies/otto,Orta düzey popülerlik - Yapay zeka paketi
+DOTS-StreamingSamples,DOTS - Streaming samples,120,https://github.com/Unity-Technologies/DOTS-StreamingSamples,Orta düzey popülerlik - Genel Unity paketi
+UnityRenderStreaming,Streaming server for Unity ,1319,https://github.com/Unity-Technologies/UnityRenderStreaming,Çok popüler - Genel Unity paketi
+laptop,A shell script to set up a macOS laptop for web and mobile development.,15,https://github.com/Unity-Technologies/laptop,Düşük popülerlik - Genel Unity paketi
+libpng,Fork of libpng - used by `External\libpng`,9,https://github.com/Unity-Technologies/libpng,Düşük popülerlik - Genel Unity paketi
+com.unity.testframework.graphics,No description,17,https://github.com/Unity-Technologies/com.unity.testframework.graphics,Düşük popülerlik - Genel Unity paketi
+GenLockProofOfConcept,Proof of concept Unity project for more precise control of framerates and GenLock,71,https://github.com/Unity-Technologies/GenLockProofOfConcept,Düşük popülerlik - Genel Unity paketi
+VisualScripting,No description,57,https://github.com/Unity-Technologies/VisualScripting,Düşük popülerlik - Genel Unity paketi
+animation-rigging-crane-example,Animation Rigging - Crane - Example,56,https://github.com/Unity-Technologies/animation-rigging-crane-example,Düşük popülerlik - Genel Unity paketi
+TimelineSignalsTutorial,Small game demo to showcase Timeline Signals,46,https://github.com/Unity-Technologies/TimelineSignalsTutorial,Düşük popülerlik - Genel Unity paketi
+2d-renderer-samples,Samples for Unity's 2D Renderer,172,https://github.com/Unity-Technologies/2d-renderer-samples,Orta düzey popülerlik - Render veya grafik paketi
+googleads-mobile-android-mediation,Sample Android project showcasing how to build a mediation adapter or custom event for the Google Mobile Ads SDK.,1,https://github.com/Unity-Technologies/googleads-mobile-android-mediation,Düşük popülerlik - Genel Unity paketi
+UnityAndroidNotchSupport,Support for Android Notch (Cutout) in Unity 2017.4 and earlier,13,https://github.com/Unity-Technologies/UnityAndroidNotchSupport,Düşük popülerlik - Genel Unity paketi
+vault-developer,HashiCorp Vault Docker image for Development purposes,3,https://github.com/Unity-Technologies/vault-developer,Düşük popülerlik - Genel Unity paketi
+ucs-diag-utils,Diagnostic utilities for the Unity Cache Server (V1),5,https://github.com/Unity-Technologies/ucs-diag-utils,Düşük popülerlik - Genel Unity paketi
+mz-golang-backend-assignment,Take home test for backend developer candidates,10,https://github.com/Unity-Technologies/mz-golang-backend-assignment,Düşük popülerlik - Genel Unity paketi
+DOTS-training-samples,Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS. ,1562,https://github.com/Unity-Technologies/DOTS-training-samples,Çok popüler - Genel Unity paketi
+multiplayer-community-contributions,Community contributions to Unity Multiplayer Networking products and services.,452,https://github.com/Unity-Technologies/multiplayer-community-contributions,Orta düzey popülerlik - Genel Unity paketi
+il-repack,Open-source alternative to ILMerge,3,https://github.com/Unity-Technologies/il-repack,Düşük popülerlik - Genel Unity paketi
+api-anaylzers,No description,4,https://github.com/Unity-Technologies/api-anaylzers,Düşük popülerlik - Genel Unity paketi
+com.unity.innovationgroup.filmlib,Innovation Group Film Library,12,https://github.com/Unity-Technologies/com.unity.innovationgroup.filmlib,Düşük popülerlik - Genel Unity paketi
+xr.sdk.validation.input,This repository contains manual and automated tests for XR SDK Provider validation.  All tests are run through Unity Test Runner.  This project is mirrored from Unity internal github.,15,https://github.com/Unity-Technologies/xr.sdk.validation.input,Düşük popülerlik - Yapay zeka paketi
+AddressableAssetsWebinar,No description,204,https://github.com/Unity-Technologies/AddressableAssetsWebinar,Orta düzey popülerlik - Genel Unity paketi
+com.unity.mobile.logcat,No description,34,https://github.com/Unity-Technologies/com.unity.mobile.logcat,Düşük popülerlik - Genel Unity paketi
+protobuf,Protocol Buffers - Google's data interchange format,27,https://github.com/Unity-Technologies/protobuf,Düşük popülerlik - Genel Unity paketi
+TimelineMarkerCustomization,Examples to show how markers and notifications work.,80,https://github.com/Unity-Technologies/TimelineMarkerCustomization,Düşük popülerlik - Genel Unity paketi
+physically-based-anim-tool,No description,35,https://github.com/Unity-Technologies/physically-based-anim-tool,Düşük popülerlik - Genel Unity paketi
+com.unity.mocks,No description,4,https://github.com/Unity-Technologies/com.unity.mocks,Düşük popülerlik - Genel Unity paketi
+MeasuredMaterialLibraryURP,No description,382,https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP,Orta düzey popülerlik - Genel Unity paketi
+com.unity.selection-groups,No description,117,https://github.com/Unity-Technologies/com.unity.selection-groups,Orta düzey popülerlik - Genel Unity paketi
+JsonRpc.Standard,An asynchronous .NET Standard library for JSON RPC client & server implementation.,4,https://github.com/Unity-Technologies/JsonRpc.Standard,Düşük popülerlik - Genel Unity paketi
+animation-rigging-workshop-siggraph2019,Repository for SIGGRAPH 2019 Animation Rigging workshop,173,https://github.com/Unity-Technologies/animation-rigging-workshop-siggraph2019,Orta düzey popülerlik - Genel Unity paketi
+pino,"🌲 super fast, all natural json logger 🌲",1,https://github.com/Unity-Technologies/pino,Düşük popülerlik - Genel Unity paketi
+barracuda-release,No description,568,https://github.com/Unity-Technologies/barracuda-release,Popüler - Genel Unity paketi
+barracuda-burst-release,No description,3,https://github.com/Unity-Technologies/barracuda-burst-release,Düşük popülerlik - Genel Unity paketi
+SpaceshipDemo,Spaceship Demo - AAA Playable First person demo showcasing effects made with Visual Effect Graph and rendered with High Definition Render Pipeline,1092,https://github.com/Unity-Technologies/SpaceshipDemo,Çok popüler - Render veya grafik paketi
+com.unity.immediate-window,"The Immediate Window provides a way to rapidly edit and debug code. It is not a full development environment, instead it is to be used for API discovery and rapid prototyping.",40,https://github.com/Unity-Technologies/com.unity.immediate-window,Düşük popülerlik - Genel Unity paketi
+MeasuredMaterialLibraryHDRP,No description,360,https://github.com/Unity-Technologies/MeasuredMaterialLibraryHDRP,Orta düzey popülerlik - Genel Unity paketi
+ShaderGraph-Custom-Lighting,A sample project showcasing a simple method to calculate custom lighting inside of Shader Graph for the Lightweight Render Pipeline. Includes a sample toon shaded scene and example assets. Built for Unity 2019.2 .,276,https://github.com/Unity-Technologies/ShaderGraph-Custom-Lighting,Orta düzey popülerlik - Render veya grafik paketi
+FilmSampleProject,Sample Project for Animation / Film Projects,75,https://github.com/Unity-Technologies/FilmSampleProject,Düşük popülerlik - Genel Unity paketi
+com.unity.xr.certinputauto,No description,7,https://github.com/Unity-Technologies/com.unity.xr.certinputauto,Düşük popülerlik - Genel Unity paketi
+obstacle-tower-source,Obstacle Tower Source Code,120,https://github.com/Unity-Technologies/obstacle-tower-source,Orta düzey popülerlik - Genel Unity paketi
+OpenKE,An Open-Source Package for Knowledge Embedding (KE),1,https://github.com/Unity-Technologies/OpenKE,Düşük popülerlik - Genel Unity paketi
+aec.test,test repository,1,https://github.com/Unity-Technologies/aec.test,Düşük popülerlik - Genel Unity paketi
+Git-for-Unity,"Git for Unity, a fork of GitHub for Unity ",157,https://github.com/Unity-Technologies/Git-for-Unity,Orta düzey popülerlik - Genel Unity paketi
+googleads-mobile-ios-mediation,No description,1,https://github.com/Unity-Technologies/googleads-mobile-ios-mediation,Düşük popülerlik - Genel Unity paketi
+hello-cube-ecs-training,No description,42,https://github.com/Unity-Technologies/hello-cube-ecs-training,Düşük popülerlik - Genel Unity paketi
+BuildReportInspector,Editor script which implements an inspector for the BuildReport class,334,https://github.com/Unity-Technologies/BuildReportInspector,Orta düzey popülerlik - Genel Unity paketi
+go-edac,Golang library and utility which supports reading Linux EDAC,0,https://github.com/Unity-Technologies/go-edac,Düşük popülerlik - Genel Unity paketi
+go-countrycode,Fast serialization and deserialization of country codes in go.,1,https://github.com/Unity-Technologies/go-countrycode,Düşük popülerlik - Genel Unity paketi
+go-languagecode,Fast serialization and deserialization of language codes in go.,0,https://github.com/Unity-Technologies/go-languagecode,Düşük popülerlik - Genel Unity paketi
+NativeVersionControlPlugins,Perforce Version Control plugins for Unity,39,https://github.com/Unity-Technologies/NativeVersionControlPlugins,Düşük popülerlik - Genel Unity paketi
+animation-rigging-advanced-character-interaction,Advanced Animation Rigging: Character and Props interaction,105,https://github.com/Unity-Technologies/animation-rigging-advanced-character-interaction,Orta düzey popülerlik - Genel Unity paketi
+com.unity.objectid-rendering,No description,5,https://github.com/Unity-Technologies/com.unity.objectid-rendering,Düşük popülerlik - Genel Unity paketi
+NativeRenderingPlugin,C++ Rendering Plugin example for Unity,827,https://github.com/Unity-Technologies/NativeRenderingPlugin,Popüler - Render veya grafik paketi
+com.unity.webrtc,WebRTC package for Unity,760,https://github.com/Unity-Technologies/com.unity.webrtc,Popüler - Genel Unity paketi
+QuickVideoTester,"A small project to test video player quickly.  Very basic controls, just assign videos to the video players, adjust the titles and when on the device, click the relevant quadrant to activate the player to see if it works",4,https://github.com/Unity-Technologies/QuickVideoTester,Düşük popülerlik - Genel Unity paketi
+Mobile-Audio-Test-Suite,"A small project for testing most of the non-DOTS audio system features on mobile. Just Build for mobile and click Begin, suite is semi-automated, just follow instructions on the screen.",6,https://github.com/Unity-Technologies/Mobile-Audio-Test-Suite,Düşük popülerlik - Genel Unity paketi
+github-release-notes,Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.,3,https://github.com/Unity-Technologies/github-release-notes,Düşük popülerlik - Genel Unity paketi
+HDRPRayTracingScenes,This repository contains a startup DXR project.,335,https://github.com/Unity-Technologies/HDRPRayTracingScenes,Orta düzey popülerlik - Yapay zeka paketi
+UIElementsUniteCPH2019RuntimeDemo,This is the project used in the Unite Copenhagen 2019 presentation: Building UI for games with the new UI Builder,126,https://github.com/Unity-Technologies/UIElementsUniteCPH2019RuntimeDemo,Orta düzey popülerlik - Genel Unity paketi
+InputSystemTest,No description,10,https://github.com/Unity-Technologies/InputSystemTest,Düşük popülerlik - Genel Unity paketi
+lua_live_coding,No description,107,https://github.com/Unity-Technologies/lua_live_coding,Orta düzey popülerlik - Genel Unity paketi
+Keras-GAN,Keras implementations of Generative Adversarial Networks.,9,https://github.com/Unity-Technologies/Keras-GAN,Düşük popülerlik - Genel Unity paketi
+bgfx,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",6,https://github.com/Unity-Technologies/bgfx,Düşük popülerlik - Render veya grafik paketi
+iOSNativeCodeSamples,No description,45,https://github.com/Unity-Technologies/iOSNativeCodeSamples,Düşük popülerlik - Genel Unity paketi
+gametune-example-game,Contains an example game with GameTune integrated,33,https://github.com/Unity-Technologies/gametune-example-game,Düşük popülerlik - Yapay zeka paketi
+GettingStartedWithBurst-Unite2019,"Companion to the ""Getting Started With Burst"" talk from Unite 2019",60,https://github.com/Unity-Technologies/GettingStartedWithBurst-Unite2019,Düşük popülerlik - Genel Unity paketi
+emunittest,Test harness for benchmarking web games.,9,https://github.com/Unity-Technologies/emunittest,Düşük popülerlik - Genel Unity paketi
+DOTS-Shmup3D-sample,A demo with Unity DOTS and Unity Physics.,176,https://github.com/Unity-Technologies/DOTS-Shmup3D-sample,Orta düzey popülerlik - Fizik paketi
+com.unity.light-assistant,Light Assistant Tool,21,https://github.com/Unity-Technologies/com.unity.light-assistant,Düşük popülerlik - Genel Unity paketi
+unite2019-scenedatatodots,Unite 2019 - Converting Scene Data to DOTS (samples),74,https://github.com/Unity-Technologies/unite2019-scenedatatodots,Düşük popülerlik - Genel Unity paketi
+com.unity.mobile.notifications,Mobile Notifications Package,134,https://github.com/Unity-Technologies/com.unity.mobile.notifications,Orta düzey popülerlik - Genel Unity paketi
+vault-secret-fetcher,No description,29,https://github.com/Unity-Technologies/vault-secret-fetcher,Düşük popülerlik - Genel Unity paketi
+SDL,No description,4,https://github.com/Unity-Technologies/SDL,Düşük popülerlik - Genel Unity paketi
+go-svrquery,Server Query Protocols in golang,6,https://github.com/Unity-Technologies/go-svrquery,Düşük popülerlik - Genel Unity paketi
+uaal-example,No description,751,https://github.com/Unity-Technologies/uaal-example,Popüler - Genel Unity paketi
+buildroot,"Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.",3,https://github.com/Unity-Technologies/buildroot,Düşük popülerlik - Genel Unity paketi
+DesktopSamples,This repository contains Unity samples for desktop platforms,237,https://github.com/Unity-Technologies/DesktopSamples,Orta düzey popülerlik - Yapay zeka paketi
+com.unity.material-switch,No description,92,https://github.com/Unity-Technologies/com.unity.material-switch,Düşük popülerlik - Genel Unity paketi
+mz-requestbin,Inspect HTTP requests. Debug webhooks. Originally created by @progrium. Cloned to Applifier for use in CPI k8s cluster.,1,https://github.com/Unity-Technologies/mz-requestbin,Düşük popülerlik - Genel Unity paketi
+DOTSSample,"A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS).",993,https://github.com/Unity-Technologies/DOTSSample,Popüler - Genel Unity paketi
+Timeline-Cinemachine-Test-Suite,A generic test suite for the main features of Timeline and Cinemachine,17,https://github.com/Unity-Technologies/Timeline-Cinemachine-Test-Suite,Düşük popülerlik - Yapay zeka paketi
+ClusterDisplay,Use the Unity Cluster Display packages (com.unity.cluster-display) to display synchronously the same Unity Scene across multiple machines through display clustering.,77,https://github.com/Unity-Technologies/ClusterDisplay,Düşük popülerlik - Genel Unity paketi
+com.unity.editor.tasks,No description,29,https://github.com/Unity-Technologies/com.unity.editor.tasks,Düşük popülerlik - Genel Unity paketi
+cla-test,No description,1,https://github.com/Unity-Technologies/cla-test,Düşük popülerlik - Genel Unity paketi
+VRAlchemyLab,VR Demo project using HDRP and unity 2019.3,288,https://github.com/Unity-Technologies/VRAlchemyLab,Orta düzey popülerlik - Genel Unity paketi
+NotchSafeAreaSample,"Simple project to test cutouts, safe area APIs with Device Simulator",62,https://github.com/Unity-Technologies/NotchSafeAreaSample,Düşük popülerlik - Genel Unity paketi
+ProjectTinySamples,Samples for Project Tiny,884,https://github.com/Unity-Technologies/ProjectTinySamples,Popüler - Genel Unity paketi
+glfw,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",5,https://github.com/Unity-Technologies/glfw,Düşük popülerlik - Genel Unity paketi
+Unity.Animation.Samples,Repository of projects that showcase the new DOTS animation package (com.unity.animation).,420,https://github.com/Unity-Technologies/Unity.Animation.Samples,Orta düzey popülerlik - Genel Unity paketi
+watermill,Building event-driven applications the easy way in Go.,1,https://github.com/Unity-Technologies/watermill,Düşük popülerlik - Genel Unity paketi
+com.unity.process-server,No description,36,https://github.com/Unity-Technologies/com.unity.process-server,Düşük popülerlik - Genel Unity paketi
+ai-planner-samples,AI Planner: Samples,108,https://github.com/Unity-Technologies/ai-planner-samples,Orta düzey popülerlik - Yapay zeka paketi
+com.unity.goql,GameObject Query Language,41,https://github.com/Unity-Technologies/com.unity.goql,Düşük popülerlik - Genel Unity paketi
+MeshApiExamples,Example project for Unity 2020.1 Mesh API improvements,702,https://github.com/Unity-Technologies/MeshApiExamples,Popüler - Genel Unity paketi
+XR-Interaction-Toolkit-Examples,This repository contains various examples to use with the XR Interaction Toolkit,1126,https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples,Çok popüler - Yapay zeka paketi
+com.unity.rpc,No description,52,https://github.com/Unity-Technologies/com.unity.rpc,Düşük popülerlik - Genel Unity paketi
+com.unity.demoteam.digital-human,Library of tech features used to realize the digital human from 'The Heretic' and 'Enemies'.,534,https://github.com/Unity-Technologies/com.unity.demoteam.digital-human,Popüler - Genel Unity paketi
+com.unity.demoteam.digital-human.sample,Character sample featuring the digital human from 'The Heretic'.,302,https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.sample,Orta düzey popülerlik - Genel Unity paketi
+com.unity.demoteam.attributes,Library of attributes common to packages in com.unity.demoteam.*,3,https://github.com/Unity-Technologies/com.unity.demoteam.attributes,Düşük popülerlik - Genel Unity paketi
+gddo,Go Doc Dot Org,1,https://github.com/Unity-Technologies/gddo,Düşük popülerlik - Genel Unity paketi
+Kinematica_Demo,Kinematica Demo Project,178,https://github.com/Unity-Technologies/Kinematica_Demo,Orta düzey popülerlik - Genel Unity paketi
+uaal-ar-example,No description,79,https://github.com/Unity-Technologies/uaal-ar-example,Düşük popülerlik - Genel Unity paketi
+furioos-sdk-js,Furioos SDK for JavaScript,30,https://github.com/Unity-Technologies/furioos-sdk-js,Düşük popülerlik - Genel Unity paketi
+SimpleUIDemo,No description,20,https://github.com/Unity-Technologies/SimpleUIDemo,Düşük popülerlik - Genel Unity paketi
+pdfbox,Mirror of Apache PDFBox,2,https://github.com/Unity-Technologies/pdfbox,Düşük popülerlik - Genel Unity paketi
+devops-spinnaker-test,This repo is use to deploy a demo application for spinnaker,2,https://github.com/Unity-Technologies/devops-spinnaker-test,Düşük popülerlik - Genel Unity paketi
+articulations-robot-demo,No description,346,https://github.com/Unity-Technologies/articulations-robot-demo,Orta düzey popülerlik - Genel Unity paketi
+goreportcard,A report card for your Go application,1,https://github.com/Unity-Technologies/goreportcard,Düşük popülerlik - Genel Unity paketi
+cla-assistant,Contributor License Agreement assistant (CLA assistant),1,https://github.com/Unity-Technologies/cla-assistant,Düşük popülerlik - Genel Unity paketi
+com.unity.cli-config-manager,"Provides a command line parser and options to set build, player, and other Unity settings when running Unity from the command line",14,https://github.com/Unity-Technologies/com.unity.cli-config-manager,Düşük popülerlik - Genel Unity paketi
+com.unity.xr.test-framework.performance,A forked version of the com.unity.test-framework.performance package (v1.0.4-preview) that includes a dependency on XR APIs for collection of XR metadata during performance test runs,6,https://github.com/Unity-Technologies/com.unity.xr.test-framework.performance,Düşük popülerlik - Genel Unity paketi
+com.unity.xr.test.runtimesettings,No description,1,https://github.com/Unity-Technologies/com.unity.xr.test.runtimesettings,Düşük popülerlik - Genel Unity paketi
+com.unity.xr.oculusperformanceutility,No description,4,https://github.com/Unity-Technologies/com.unity.xr.oculusperformanceutility,Düşük popülerlik - Genel Unity paketi
+xr.sdk.oculus.performancetests,No description,7,https://github.com/Unity-Technologies/xr.sdk.oculus.performancetests,Düşük popülerlik - Genel Unity paketi
+MeshSyncDCCPlugins,"DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia",457,https://github.com/Unity-Technologies/MeshSyncDCCPlugins,Orta düzey popülerlik - Araç paketi
+llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.,5,https://github.com/Unity-Technologies/llvm-project,Düşük popülerlik - Yapay zeka paketi
+frontend-developer-test,Test app for react oriented front-end engineer candidates,6,https://github.com/Unity-Technologies/frontend-developer-test,Düşük popülerlik - Genel Unity paketi
+2D-Entities-Starter,No description,29,https://github.com/Unity-Technologies/2D-Entities-Starter,Düşük popülerlik - Genel Unity paketi
+SPIRV-Cross,No description,39,https://github.com/Unity-Technologies/SPIRV-Cross,Düşük popülerlik - Genel Unity paketi
+terraform-provider-ansible,"""Logical"" provider for integrating with an Ansible Dynamic Inventory script.",0,https://github.com/Unity-Technologies/terraform-provider-ansible,Düşük popülerlik - Genel Unity paketi
+arfoundation-demos,AR Foundation demo projects,500,https://github.com/Unity-Technologies/arfoundation-demos,Popüler - Genel Unity paketi
+uzap,unity's go.uber.org/zap config,8,https://github.com/Unity-Technologies/uzap,Düşük popülerlik - Genel Unity paketi
+NativeAudioPlugins,No description,138,https://github.com/Unity-Technologies/NativeAudioPlugins,Orta düzey popülerlik - Genel Unity paketi
+AudioDemos,No description,29,https://github.com/Unity-Technologies/AudioDemos,Düşük popülerlik - Genel Unity paketi
+com.unity.channel-client-examples,No description,7,https://github.com/Unity-Technologies/com.unity.channel-client-examples,Düşük popülerlik - Genel Unity paketi
+uGUI,Source code for the Unity UI system.,1237,https://github.com/Unity-Technologies/uGUI,Çok popüler - Genel Unity paketi
+hgwebcachingproxy,"Mercurial extension / wsgi that runs like hgweb but acts like a proxy, caching repositories from a main server.",1,https://github.com/Unity-Technologies/hgwebcachingproxy,Düşük popülerlik - Yapay zeka paketi
+dynapath,Mercurial extension that dynamically changes the default path depending on the location. Convenient when changing between locations with different optional mirrors.,3,https://github.com/Unity-Technologies/dynapath,Düşük popülerlik - Genel Unity paketi
+SynthDet,SynthDet - An end-to-end object detection pipeline using synthetic data,366,https://github.com/Unity-Technologies/SynthDet,Orta düzey popülerlik - Genel Unity paketi
+grpc-go,The Go language implementation of gRPC. HTTP/2 based RPC,2,https://github.com/Unity-Technologies/grpc-go,Düşük popülerlik - Genel Unity paketi
+unity-ml-template,template for Unity project using machine learning,13,https://github.com/Unity-Technologies/unity-ml-template,Düşük popülerlik - Genel Unity paketi
+unitysimulation-coronavirus-example,Unity Simulation Coronavirus Example,79,https://github.com/Unity-Technologies/unitysimulation-coronavirus-example,Düşük popülerlik - Genel Unity paketi
+Graphics,Unity Graphics - Including Scriptable Render Pipeline,2557,https://github.com/Unity-Technologies/Graphics,Çok popüler - Render veya grafik paketi
+com.unity.perception,Perception toolkit for sim2real training and validation in Unity,929,https://github.com/Unity-Technologies/com.unity.perception,Popüler - Yapay zeka paketi
+go-tensorgen,Lightweight tool that generates Go structures and Tensorflow inference execution code from SavedModel,11,https://github.com/Unity-Technologies/go-tensorgen,Düşük popülerlik - Genel Unity paketi
+furioos-sdk-unity,Furioos SDK for Unity3D,25,https://github.com/Unity-Technologies/furioos-sdk-unity,Düşük popülerlik - Genel Unity paketi
+PackageDependencyMapper,This tool will search for Unity packages and map their dependencies into a graph that can be outputted in various ways.,11,https://github.com/Unity-Technologies/PackageDependencyMapper,Düşük popülerlik - Genel Unity paketi
+TheHeretic-VFXCharacter,"Morgan - a VFX character from The Heretic, a short film made with Unity",161,https://github.com/Unity-Technologies/TheHeretic-VFXCharacter,Orta düzey popülerlik - Genel Unity paketi
+grafana,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",1,https://github.com/Unity-Technologies/grafana,Düşük popülerlik - Genel Unity paketi
+com.unity.cli-project-setup,"Provides a command line parser and options to set editor, build, player, and other Unity settings when running Unity from the command line",56,https://github.com/Unity-Technologies/com.unity.cli-project-setup,Düşük popülerlik - Genel Unity paketi
+com.unity.test.metadata-manager,Used to manage custom metadata for Unity performance tests.,6,https://github.com/Unity-Technologies/com.unity.test.metadata-manager,Düşük popülerlik - Genel Unity paketi
+com.unity.test.performance.runtimesettings,An entity class used to preserve settings from player build time for use during runtime of a test.,1,https://github.com/Unity-Technologies/com.unity.test.performance.runtimesettings,Düşük popülerlik - Genel Unity paketi
+repotest123,No description,1,https://github.com/Unity-Technologies/repotest123,Düşük popülerlik - Genel Unity paketi
+Reflect-Extensions,Runtime components and Editor tools to make the most of Unity Reflect.,18,https://github.com/Unity-Technologies/Reflect-Extensions,Düşük popülerlik - Araç paketi
+Facial-AR-Remote-Project,**This project is discontinued** Integration project for Facial AR Remote,22,https://github.com/Unity-Technologies/Facial-AR-Remote-Project,Düşük popülerlik - Genel Unity paketi
+gen-playerid-stats,No description,1,https://github.com/Unity-Technologies/gen-playerid-stats,Düşük popülerlik - Genel Unity paketi
+com.unity.editoriterationprofiler,Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3+.,187,https://github.com/Unity-Technologies/com.unity.editoriterationprofiler,Orta düzey popülerlik - Yapay zeka paketi
+go-pingdom,Pingdom API access from Go,1,https://github.com/Unity-Technologies/go-pingdom,Düşük popülerlik - Genel Unity paketi
+com.unity.performance-tracking,A set of tools and utilities to help track Unity Editor performance,88,https://github.com/Unity-Technologies/com.unity.performance-tracking,Düşük popülerlik - Araç paketi
+perception-synthdet-torchserve,Tools for running Unity's SynthDet models on TorchServe,7,https://github.com/Unity-Technologies/perception-synthdet-torchserve,Düşük popülerlik - Araç paketi
+perception-synthdet-viewer-app,An iPhone and iPad application that displays real-time object detection from SynthDet in AR,25,https://github.com/Unity-Technologies/perception-synthdet-viewer-app,Düşük popülerlik - Genel Unity paketi
+hw20-645-videoconference-filters-soundboard-app,No description,3,https://github.com/Unity-Technologies/hw20-645-videoconference-filters-soundboard-app,Düşük popülerlik - Genel Unity paketi
+hw20-multiplayer-asteroid-soccer-game,A multiplayer game in Unity,17,https://github.com/Unity-Technologies/hw20-multiplayer-asteroid-soccer-game,Düşük popülerlik - Genel Unity paketi
+format,Home for the dotnet-format command,1,https://github.com/Unity-Technologies/format,Düşük popülerlik - Genel Unity paketi
+instant-meshes,Interactive field-aligned mesh generator,7,https://github.com/Unity-Technologies/instant-meshes,Düşük popülerlik - Genel Unity paketi
+com.unity.platforms.wsl,Packer for interacting with WSL2 and Unity. ,8,https://github.com/Unity-Technologies/com.unity.platforms.wsl,Düşük popülerlik - Genel Unity paketi
+SerializableCallback,UnityEvent and System.Func had a child,27,https://github.com/Unity-Technologies/SerializableCallback,Düşük popülerlik - Genel Unity paketi
+com.unity.reflect.ar,Repository for the experimental com.unity.reflect.ar package.,2,https://github.com/Unity-Technologies/com.unity.reflect.ar,Düşük popülerlik - Genel Unity paketi
+com.unity.reflect.vr,A repository to store the experimental versions of Reflect's VR package.,3,https://github.com/Unity-Technologies/com.unity.reflect.vr,Düşük popülerlik - Genel Unity paketi
+OnlineSurfaceReconstruction,No description,4,https://github.com/Unity-Technologies/OnlineSurfaceReconstruction,Düşük popülerlik - Genel Unity paketi
+xr.sdk.functionaltests,No description,5,https://github.com/Unity-Technologies/xr.sdk.functionaltests,Düşük popülerlik - Genel Unity paketi
+electron,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",3,https://github.com/Unity-Technologies/electron,Düşük popülerlik - Genel Unity paketi
+com.unity.uiwidgets,"UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",627,https://github.com/Unity-Technologies/com.unity.uiwidgets,Popüler - Genel Unity paketi
+swiftshader,"SwiftShader is a high-performance CPU-based implementation of the Vulkan, OpenGL ES, and Direct3D 9 graphics APIs. Its goal is to provide hardware independence for advanced 3D graphics.",5,https://github.com/Unity-Technologies/swiftshader,Düşük popülerlik - Render veya grafik paketi
+china-connected-games,No description,1,https://github.com/Unity-Technologies/china-connected-games,Düşük popülerlik - Genel Unity paketi
+MGOBE,No description,39,https://github.com/Unity-Technologies/MGOBE,Düşük popülerlik - Genel Unity paketi
+duplicate-bug-report-detection-kk,No description,1,https://github.com/Unity-Technologies/duplicate-bug-report-detection-kk,Düşük popülerlik - Genel Unity paketi
+mobileQA-LostCrypt-AutoPlay-Deterministic,No description,10,https://github.com/Unity-Technologies/mobileQA-LostCrypt-AutoPlay-Deterministic,Düşük popülerlik - Genel Unity paketi
+com.unity.installationhelper,A prototype for sharing software installation code between both unity workspace and unity hub teams,2,https://github.com/Unity-Technologies/com.unity.installationhelper,Düşük popülerlik - Genel Unity paketi
+terraform-provider-kubernetes,Terraform Kubernetes provider,1,https://github.com/Unity-Technologies/terraform-provider-kubernetes,Düşük popülerlik - Genel Unity paketi
+datasetinsights,Synthetic Dataset Insights,84,https://github.com/Unity-Technologies/datasetinsights,Düşük popülerlik - Genel Unity paketi
+ROS-TCP-Endpoint,ROS package used to create an endpoint to accept ROS messages sent from a Unity scene using the ROS TCP Connector scripts,189,https://github.com/Unity-Technologies/ROS-TCP-Endpoint,Orta düzey popülerlik - Genel Unity paketi
+UIToolkitUnityRoyaleRuntimeDemo,This is a sample project to introduce the use of UI Toolkit in Runtime,361,https://github.com/Unity-Technologies/UIToolkitUnityRoyaleRuntimeDemo,Orta düzey popülerlik - Genel Unity paketi
+HLODSystemDemo,HLODSystem is applied to 3DGameKit.,95,https://github.com/Unity-Technologies/HLODSystemDemo,Düşük popülerlik - Genel Unity paketi
+yasm,Yasm Assembler mainline development tree,1,https://github.com/Unity-Technologies/yasm,Düşük popülerlik - Yapay zeka paketi
+ml-test,No description,2,https://github.com/Unity-Technologies/ml-test,Düşük popülerlik - Genel Unity paketi
+Buildserver1987,BuildServer for menziestest,1,https://github.com/Unity-Technologies/Buildserver1987,Düşük popülerlik - Genel Unity paketi
+DebugWatch,Debug tool similar to visual studio's watch window,8,https://github.com/Unity-Technologies/DebugWatch,Düşük popülerlik - Genel Unity paketi
+HuaweiServiceSample,Public repository for HUAWEI HMS & AGC Unity SDK,43,https://github.com/Unity-Technologies/HuaweiServiceSample,Düşük popülerlik - Genel Unity paketi
+terraform-provider-artifactory,Terraform provider to manage Artifactory,2,https://github.com/Unity-Technologies/terraform-provider-artifactory,Düşük popülerlik - Genel Unity paketi
+FramerateSmoothnessTest,No description,8,https://github.com/Unity-Technologies/FramerateSmoothnessTest,Düşük popülerlik - Genel Unity paketi
+com.unity.reflect.viewer,Unity Reflect Viewer,60,https://github.com/Unity-Technologies/com.unity.reflect.viewer,Düşük popülerlik - Genel Unity paketi
+SeamAwareDecimater,Mesh simplification with UV's boundary preserved,10,https://github.com/Unity-Technologies/SeamAwareDecimater,Düşük popülerlik - Genel Unity paketi
+mz-gamerai-reducer,No description,1,https://github.com/Unity-Technologies/mz-gamerai-reducer,Düşük popülerlik - Genel Unity paketi
+TilingRandomization,Randomized Tiling for Unity ShaderGraph,53,https://github.com/Unity-Technologies/TilingRandomization,Düşük popülerlik - Genel Unity paketi
+react-fullpage,Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/,2,https://github.com/Unity-Technologies/react-fullpage,Düşük popülerlik - Genel Unity paketi
+open-match,"Flexible, extensible, and scalable video game matchmaking.",16,https://github.com/Unity-Technologies/open-match,Düşük popülerlik - Genel Unity paketi
+ROS-TCP-Connector,No description,299,https://github.com/Unity-Technologies/ROS-TCP-Connector,Orta düzey popülerlik - Genel Unity paketi
+Unity-Robotics-Hub,"Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.",2062,https://github.com/Unity-Technologies/Unity-Robotics-Hub,Çok popüler - Araç paketi
+charts,Curated applications for Kubernetes,2,https://github.com/Unity-Technologies/charts,Düşük popülerlik - Genel Unity paketi
+com.unity.demoteam.hair,An integrated solution for authoring / importing / simulating / rendering strand-based hair in Unity.,759,https://github.com/Unity-Technologies/com.unity.demoteam.hair,Popüler - Render veya grafik paketi
+furioos-sdk-unreal-engine,Furioos SDK for Unreal Engine,9,https://github.com/Unity-Technologies/furioos-sdk-unreal-engine,Düşük popülerlik - Genel Unity paketi
+com.unity.multiplayer.rfcs,No description,48,https://github.com/Unity-Technologies/com.unity.multiplayer.rfcs,Düşük popülerlik - Genel Unity paketi
+com.unity.multiplayer.docs,"Open Source documentation for Unity Multiplayer, which includes Netcode for GameObjects, the Unity Transport Package, Multiplayer Tools and Educational references and Sample Games such as Boss Room.",668,https://github.com/Unity-Technologies/com.unity.multiplayer.docs,Popüler - Araç paketi
+RadeonImageFilter,No description,2,https://github.com/Unity-Technologies/RadeonImageFilter,Düşük popülerlik - Genel Unity paketi
+com.unity.simviz,"SimViz contains tools and resources for authoring and executing autonomous vehicle simulations on roadways and city scapes by using map import, scene creation, formatting of ground truth data, and creating spline based roads.",58,https://github.com/Unity-Technologies/com.unity.simviz,Düşük popülerlik - Araç paketi
+com.unity.multiplayer.samples.coop,"A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",1631,https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop,Çok popüler - Genel Unity paketi
+URDF-Importer,URDF importer,233,https://github.com/Unity-Technologies/URDF-Importer,Orta düzey popülerlik - Genel Unity paketi
+URPCloudRenderingTestProject,No description,7,https://github.com/Unity-Technologies/URPCloudRenderingTestProject,Düşük popülerlik - Genel Unity paketi
+VHACD-deprecated,This repository has migrated to Unity-Technologies/VHACD,70,https://github.com/Unity-Technologies/VHACD-deprecated,Düşük popülerlik - Genel Unity paketi
+action-slack,Provides the function of slack notification to GitHub Actions.,2,https://github.com/Unity-Technologies/action-slack,Düşük popülerlik - Genel Unity paketi
+com.unity.ide.vscode,Code editor integration for VSCode.,30,https://github.com/Unity-Technologies/com.unity.ide.vscode,Düşük popülerlik - Genel Unity paketi
+renovate,Universal dependency update tool that fits into your workflows.,3,https://github.com/Unity-Technologies/renovate,Düşük popülerlik - Genel Unity paketi
+ProjectAuditor,Project Auditor is an experimental static analysis tool for Unity Projects.,835,https://github.com/Unity-Technologies/ProjectAuditor,Popüler - Genel Unity paketi
+PS-DOTSStructuralChangeTests,Tests for structural change performance in DOTS,6,https://github.com/Unity-Technologies/PS-DOTSStructuralChangeTests,Düşük popülerlik - Genel Unity paketi
+PS-DOTSChunkDefragmentationSample,No description,7,https://github.com/Unity-Technologies/PS-DOTSChunkDefragmentationSample,Düşük popülerlik - Genel Unity paketi
+Game-Simulation-Match-3-Sample,Game Simulation Match 3 Sample,39,https://github.com/Unity-Technologies/Game-Simulation-Match-3-Sample,Düşük popülerlik - Genel Unity paketi
+idb,idb is a flexible command line interface for automating iOS simulators and devices,6,https://github.com/Unity-Technologies/idb,Düşük popülerlik - Genel Unity paketi
+reflect.publisher.csharp,Use the Unity Reflect Publisher API to build C# applications or plugins that publish 3D models to Unity Reflect.,9,https://github.com/Unity-Technologies/reflect.publisher.csharp,Düşük popülerlik - Genel Unity paketi
+com.unity.ads.ios-support,Provides support for App Tracking Transparency and SkAdNetwork API newly introduced in Apple iOS 14.,81,https://github.com/Unity-Technologies/com.unity.ads.ios-support,Düşük popülerlik - Genel Unity paketi
+jsonnet-libs,Unity Jsonnet libs,7,https://github.com/Unity-Technologies/jsonnet-libs,Düşük popülerlik - Genel Unity paketi
+ios-sdk,The deltaDNA analytics iOS SDK.,1,https://github.com/Unity-Technologies/ios-sdk,Düşük popülerlik - Genel Unity paketi
+CocoaPods,deltaDNA's CocoaPods Specs repository,1,https://github.com/Unity-Technologies/CocoaPods,Düşük popülerlik - Genel Unity paketi
+ShaderGraph-MasterStack-Samples,A sample project using the Universal Render Pipeline that includes examples to demo latest ShaderGraph feature - MasterStack,154,https://github.com/Unity-Technologies/ShaderGraph-MasterStack-Samples,Orta düzey popülerlik - Render veya grafik paketi
+UnityTextureAccessApiExamples,Example project for Unity 2020.1+ texture data access APIs,143,https://github.com/Unity-Technologies/UnityTextureAccessApiExamples,Orta düzey popülerlik - Genel Unity paketi
+ucb-android-sdks-testing,🤖Android SDK and NDK Testing for UCB,3,https://github.com/Unity-Technologies/ucb-android-sdks-testing,Düşük popülerlik - Genel Unity paketi
+ucb-tests-ghostly-toast-github,Testing project for UCB. Built in 2017.4.30f1.,1,https://github.com/Unity-Technologies/ucb-tests-ghostly-toast-github,Düşük popülerlik - Genel Unity paketi
+Robotics-Object-Pose-Estimation,A complete end-to-end demonstration in which we collect training data in Unity and use that data to train a deep neural network to predict the pose of a cube. This model is then deployed in a simulated robotic pick-and-place task.,298,https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation,Orta düzey popülerlik - Yapay zeka paketi
+com.unity.toonshader,Unity Toon Shader ( an experimental package ),1097,https://github.com/Unity-Technologies/com.unity.toonshader,Çok popüler - Genel Unity paketi
+S22.Xmpp,S22.Xmpp is an easy-to-use and well-documented .NET assembly for communicating with an XMPP server. It supports basic Instant Messaging and Presence funtionality as well as a variety of XMPP extensions.,1,https://github.com/Unity-Technologies/S22.Xmpp,Düşük popülerlik - Genel Unity paketi
+simple-exec,🏃 A .NET library that runs external commands.,7,https://github.com/Unity-Technologies/simple-exec,Düşük popülerlik - Genel Unity paketi
+com.unity.search.extensions,"This package contains a bunch of examples, samples and queries to be used with Unity Search.",190,https://github.com/Unity-Technologies/com.unity.search.extensions,Orta düzey popülerlik - Yapay zeka paketi
+tensorflow,An Open Source Machine Learning Framework for Everyone,6,https://github.com/Unity-Technologies/tensorflow,Düşük popülerlik - Genel Unity paketi
+sol-games-unity-samples,Unity code samples from the Accelerate Solutions Games team,46,https://github.com/Unity-Technologies/sol-games-unity-samples,Düşük popülerlik - Genel Unity paketi
+drone-pose-estimation-navigation,Pose Estimation for drones ,17,https://github.com/Unity-Technologies/drone-pose-estimation-navigation,Düşük popülerlik - Genel Unity paketi
+deploy-sourcegraph,Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence,1,https://github.com/Unity-Technologies/deploy-sourcegraph,Düşük popülerlik - Genel Unity paketi
+com.unity.xr-content.mars-sim-environments,The MARS Simulation environment assets (3d models + prefabs).  The raw assets are provided as a reference + building block for users but the MARS integration requires Unity MARS.,3,https://github.com/Unity-Technologies/com.unity.xr-content.mars-sim-environments,Düşük popülerlik - Genel Unity paketi
+com.unity.xr-content.template-mars-basic,"The basic MARS use-case templates. Single feature setups, like single plane, tabletop, face, etc.",2,https://github.com/Unity-Technologies/com.unity.xr-content.template-mars-basic,Düşük popülerlik - Genel Unity paketi
+com.unity.xr-content.template-mars-platformer,"The MARS platforming game template. This is the robot demo we've typically showed off when explaining the MARS workflow and features.  It is a dynamic, world-aware AR platformer game that will extend for as far as one can scan.",11,https://github.com/Unity-Technologies/com.unity.xr-content.template-mars-platformer,Düşük popülerlik - Yapay zeka paketi
+com.unity.xr-content.template-training,A factory training template. Contains an extensible walkthrough system of conditions and triggers so that users can make their own guided experiences. The demo scene is set up to work with the MARS factory environment.,9,https://github.com/Unity-Technologies/com.unity.xr-content.template-training,Düşük popülerlik - Yapay zeka paketi
+com.unity.multiplayer.samples.bitesize,A collection of smaller Bitesize samples to educate in isolation features of Netcode for GameObjects and related technologies.,369,https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize,Orta düzey popülerlik - Genel Unity paketi
+helm-unittest,BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.,1,https://github.com/Unity-Technologies/helm-unittest,Düşük popülerlik - Genel Unity paketi
+unity-mediation-cocoapods-prod,A publicly hosted Cocoapods repo for mediation SDKs,8,https://github.com/Unity-Technologies/unity-mediation-cocoapods-prod,Düşük popülerlik - Genel Unity paketi
+Robotics-Warehouse,A warehouse environment for robotics simulation in Unity.,70,https://github.com/Unity-Technologies/Robotics-Warehouse,Düşük popülerlik - Genel Unity paketi
+DataflowTemplates,Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks,1,https://github.com/Unity-Technologies/DataflowTemplates,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples.game-lobby,A sample showcasing a minimal implementation of a lobby experience using the Lobby and Relay packages.,218,https://github.com/Unity-Technologies/com.unity.services.samples.game-lobby,Orta düzey popülerlik - Genel Unity paketi
+emsdk,Emscripten SDK,1,https://github.com/Unity-Technologies/emsdk,Düşük popülerlik - Genel Unity paketi
+lightning-hydra-template,"PyTorch Lightning + Hydra. A very general, feature-rich template for rapid and scalable ML experimentation with best practices. ⚡🔥⚡",3,https://github.com/Unity-Technologies/lightning-hydra-template,Düşük popülerlik - Genel Unity paketi
+scrcpy,Display and control your Android device,4,https://github.com/Unity-Technologies/scrcpy,Düşük popülerlik - Genel Unity paketi
+godruid,An open source Golang client for Druid,1,https://github.com/Unity-Technologies/godruid,Düşük popülerlik - Genel Unity paketi
+DracoUnity,Draco 3D Data Compression Unity Package,12,https://github.com/Unity-Technologies/DracoUnity,Düşük popülerlik - Genel Unity paketi
+Robotics-Nav2-SLAM-Example,"An example project which contains the Unity components necessary to complete Navigation2's SLAM tutorial with a Turtlebot3, using a custom Unity environment in place of Gazebo.",339,https://github.com/Unity-Technologies/Robotics-Nav2-SLAM-Example,Orta düzey popülerlik - Yapay zeka paketi
+gremlin-helm,Helm chart for deploy Gremlin client,1,https://github.com/Unity-Technologies/gremlin-helm,Düşük popülerlik - Genel Unity paketi
+SZZUnleashed,"An implementation of the SZZ algorithm, i.e., an approach to identify bug-introducing commits.",2,https://github.com/Unity-Technologies/SZZUnleashed,Düşük popülerlik - Genel Unity paketi
+quickstart-arcade,Arcade Classics project is a collection of lightweight single scene games inspired by early arcade games.,32,https://github.com/Unity-Technologies/quickstart-arcade,Düşük popülerlik - Genel Unity paketi
+Labs,Repository containing information about Unity Labs research past and current. ,60,https://github.com/Unity-Technologies/Labs,Düşük popülerlik - Yapay zeka paketi
+pdf.js,PDF Reader in JavaScript,3,https://github.com/Unity-Technologies/pdf.js,Düşük popülerlik - Genel Unity paketi
+ml-agents-dodgeball-env,Showcase environment for ML-Agents,63,https://github.com/Unity-Technologies/ml-agents-dodgeball-env,Düşük popülerlik - Genel Unity paketi
+dtls,DTLS 1.2 Server/Client implementation for Go,2,https://github.com/Unity-Technologies/dtls,Düşük popülerlik - Genel Unity paketi
+com.unity.vs-attribution,VS Attribution package repository,3,https://github.com/Unity-Technologies/com.unity.vs-attribution,Düşük popülerlik - Genel Unity paketi
+lookdev-studio,"LookDev Studio: a template for artists to import their work, and share the result with their directors, team and clients. ",70,https://github.com/Unity-Technologies/lookdev-studio,Düşük popülerlik - Genel Unity paketi
+DynamicResolutionSample,A drop-in dynamic resolution script,141,https://github.com/Unity-Technologies/DynamicResolutionSample,Orta düzey popülerlik - Genel Unity paketi
+gh-pr-content-checker,Action that checks whether the body or diff in a PR contains a certain word.,1,https://github.com/Unity-Technologies/gh-pr-content-checker,Düşük popülerlik - Yapay zeka paketi
+electron-notarize,Notarize your macOS Electron Apps,1,https://github.com/Unity-Technologies/electron-notarize,Düşük popülerlik - Genel Unity paketi
+barracuda-starter-kit,Barracuda Starter Kit project. Selected tutorials and documentation for Unity Barracuda project. ,66,https://github.com/Unity-Technologies/barracuda-starter-kit,Düşük popülerlik - Genel Unity paketi
+opentelemetry-collector-contrib,Contrib repository for the OpenTelemetry Collector,2,https://github.com/Unity-Technologies/opentelemetry-collector-contrib,Düşük popülerlik - Genel Unity paketi
+backstage-upstream-fork,Backstage is an open platform for building developer portals,1,https://github.com/Unity-Technologies/backstage-upstream-fork,Düşük popülerlik - Genel Unity paketi
+PeopleSansPeople,Unity's privacy-preserving human-centric synthetic data generator,305,https://github.com/Unity-Technologies/PeopleSansPeople,Orta düzey popülerlik - Genel Unity paketi
+udp,A connection-oriented listener over a UDP PacketConn,2,https://github.com/Unity-Technologies/udp,Düşük popülerlik - Genel Unity paketi
+eslint-plugin-react,React specific linting rules for ESLint,1,https://github.com/Unity-Technologies/eslint-plugin-react,Düşük popülerlik - Genel Unity paketi
+metrics,"Machine learning metrics for distributed, scalable PyTorch applications.",2,https://github.com/Unity-Technologies/metrics,Düşük popülerlik - Genel Unity paketi
+paper-ml-agents,A repository to reproduce the experiments of the MA-POCA paper,18,https://github.com/Unity-Technologies/paper-ml-agents,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples,A collection of working examples of Unity Gaming Services.,142,https://github.com/Unity-Technologies/com.unity.services.samples,Orta düzey popülerlik - Genel Unity paketi
+com.unity.services.samples.use-cases,The collection of samples in this repo use Unity Gaming Services in a Unity project to demonstrate live gaming operations.,456,https://github.com/Unity-Technologies/com.unity.services.samples.use-cases,Orta düzey popülerlik - Genel Unity paketi
+quicktype,"Generate types and converters from JSON, Schema, and GraphQL",2,https://github.com/Unity-Technologies/quicktype,Düşük popülerlik - Genel Unity paketi
+UnityMeshImporter,Runtime mesh importer for Unity using AssimpNet,9,https://github.com/Unity-Technologies/UnityMeshImporter,Düşük popülerlik - Genel Unity paketi
+multiplay-examples,Examples for using Unity Multiplay: https://unity.com/products/multiplay,42,https://github.com/Unity-Technologies/multiplay-examples,Düşük popülerlik - Genel Unity paketi
+avro4s,Avro schema generation and serialization / deserialization for Scala,1,https://github.com/Unity-Technologies/avro4s,Düşük popülerlik - Genel Unity paketi
+runtime,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",47,https://github.com/Unity-Technologies/runtime,Düşük popülerlik - Genel Unity paketi
+Zenject,Dependency Injection Framework for Unity3D ,33,https://github.com/Unity-Technologies/Zenject,Düşük popülerlik - Genel Unity paketi
+unity-inverse-dynamics-demo,A small project showing off the Inverse dynamics available in Unity,99,https://github.com/Unity-Technologies/unity-inverse-dynamics-demo,Düşük popülerlik - Yapay zeka paketi
+ccentral4j-1,Java client library for CCentral,1,https://github.com/Unity-Technologies/ccentral4j-1,Düşük popülerlik - Genel Unity paketi
+boat-attack-water,Package repo containing the water system created for the URP Boat Attack demo project.,334,https://github.com/Unity-Technologies/boat-attack-water,Orta düzey popülerlik - Yapay zeka paketi
+liquibase,Main Liquibase Source,2,https://github.com/Unity-Technologies/liquibase,Düşük popülerlik - Yapay zeka paketi
+ProjNet4GeoAPI,.NET Spatial Reference and Projection Engine,3,https://github.com/Unity-Technologies/ProjNet4GeoAPI,Düşük popülerlik - Genel Unity paketi
+pysolotools,Python toolchain for SOLO.,40,https://github.com/Unity-Technologies/pysolotools,Düşük popülerlik - Yapay zeka paketi
+kubeflow,Machine Learning Toolkit for Kubernetes,4,https://github.com/Unity-Technologies/kubeflow,Düşük popülerlik - Genel Unity paketi
+sloop,Kubernetes History Visualization,1,https://github.com/Unity-Technologies/sloop,Düşük popülerlik - Genel Unity paketi
+external-dns,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2,https://github.com/Unity-Technologies/external-dns,Düşük popülerlik - Genel Unity paketi
+VHACD,"The V-HACD library decomposes a 3D surface into a set of ""near"" convex parts.",141,https://github.com/Unity-Technologies/VHACD,Orta düzey popülerlik - Genel Unity paketi
+ui-toolkit-manual-code-examples,Unity UI Toolkit documentation code examples,468,https://github.com/Unity-Technologies/ui-toolkit-manual-code-examples,Orta düzey popülerlik - Genel Unity paketi
+kubeflow-github-action,Repository for makeinga a GitHub Actions for deploying to Kubeflow. ,2,https://github.com/Unity-Technologies/kubeflow-github-action,Düşük popülerlik - Genel Unity paketi
+kompose,Go from Docker Compose to Kubernetes,1,https://github.com/Unity-Technologies/kompose,Düşük popülerlik - Genel Unity paketi
+kube_remediator,No description,1,https://github.com/Unity-Technologies/kube_remediator,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples.matchplay,A Matchmaking with Multiplay Unity example project. Implements the Unity Matchmaking and Multiplay SDK to create an end to end matchmaking game experience.,88,https://github.com/Unity-Technologies/com.unity.services.samples.matchplay,Düşük popülerlik - Genel Unity paketi
+com.unity.ml-agents,Unity ML-Agents Package,6,https://github.com/Unity-Technologies/com.unity.ml-agents,Düşük popülerlik - Genel Unity paketi
+oneTBB,oneAPI Threading Building Blocks (oneTBB),2,https://github.com/Unity-Technologies/oneTBB,Düşük popülerlik - Genel Unity paketi
+com.unity.cinecast.sample-wildwest,This sample showcases all the basic functionalities of Cinecast SDK.,4,https://github.com/Unity-Technologies/com.unity.cinecast.sample-wildwest,Düşük popülerlik - Genel Unity paketi
+com.unity.cloud.gltfast,Efficient glTF 3D import / export library for Unity,82,https://github.com/Unity-Technologies/com.unity.cloud.gltfast,Düşük popülerlik - Genel Unity paketi
+pyrra,"Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!",1,https://github.com/Unity-Technologies/pyrra,Düşük popülerlik - Genel Unity paketi
+saramaprom,Metrics exporter from Sarama to Prometheus.,1,https://github.com/Unity-Technologies/saramaprom,Düşük popülerlik - Genel Unity paketi
+UnityDataTools,Experimental tools and libraries for reading and analyzing Unity data files.,579,https://github.com/Unity-Technologies/UnityDataTools,Popüler - Araç paketi
+AppLovin-MAX-SDK-Android,No description,2,https://github.com/Unity-Technologies/AppLovin-MAX-SDK-Android,Düşük popülerlik - Genel Unity paketi
+AppLovin-MAX-SDK-iOS,No description,1,https://github.com/Unity-Technologies/AppLovin-MAX-SDK-iOS,Düşük popülerlik - Genel Unity paketi
+unity-relay-mirror-sample,Unity Mirror Sample project! This project demonstrates how to use Unity Transport Package (UTP) and Relay service with the Mirror Networking API.,35,https://github.com/Unity-Technologies/unity-relay-mirror-sample,Düşük popülerlik - Genel Unity paketi
+OpenUSD,Universal Scene Description,8,https://github.com/Unity-Technologies/OpenUSD,Düşük popülerlik - Genel Unity paketi
+distribution,"The toolkit to pack, ship, store, and deliver container content",2,https://github.com/Unity-Technologies/distribution,Düşük popülerlik - Yapay zeka paketi
+com.unity.xr-content.xr-sim-environments,Source for XR Simulation Environments content pack used with AR Foundation.,21,https://github.com/Unity-Technologies/com.unity.xr-content.xr-sim-environments,Düşük popülerlik - Genel Unity paketi
+opentelemetry-cpp,The OpenTelemetry C++ Client,2,https://github.com/Unity-Technologies/opentelemetry-cpp,Düşük popülerlik - Genel Unity paketi
+ibus,Intelligent Input Bus for Linux/Unix,1,https://github.com/Unity-Technologies/ibus,Düşük popülerlik - Genel Unity paketi
+pysolotools-fiftyone,Solo plugin to Voxel FiftyOne,16,https://github.com/Unity-Technologies/pysolotools-fiftyone,Düşük popülerlik - Genel Unity paketi
+UGS-SQL-Cookbook,A collection of common SQL queries and best practices for use with Unity Gaming Services Analytics,16,https://github.com/Unity-Technologies/UGS-SQL-Cookbook,Düşük popülerlik - Genel Unity paketi
+mnesia_json,No description,2,https://github.com/Unity-Technologies/mnesia_json,Düşük popülerlik - Genel Unity paketi
+FlexLayout,A multi-tab layout manager,1,https://github.com/Unity-Technologies/FlexLayout,Düşük popülerlik - Genel Unity paketi
+vcpkg,"C++ Library Manager for Windows, Linux, and MacOS",1,https://github.com/Unity-Technologies/vcpkg,Düşük popülerlik - Genel Unity paketi
+com.unity.gis.high-precision-framework,This high precision framework is a package which allows for the easy creation of large-scale visualizations. It has the ambition of solving problems outside of the pure geospatial streaming applications.,110,https://github.com/Unity-Technologies/com.unity.gis.high-precision-framework,Orta düzey popülerlik - Genel Unity paketi
+com.unity.gis.streaming-framework,A streaming framework for geospatial data,27,https://github.com/Unity-Technologies/com.unity.gis.streaming-framework,Düşük popülerlik - Genel Unity paketi
+protoc-gen-bq-schema,protoc-gen-bq-schema helps you to send your Protocol Buffer messages to BigQuery.,1,https://github.com/Unity-Technologies/protoc-gen-bq-schema,Düşük popülerlik - Genel Unity paketi
+lager_rsyslog,An Rsyslog backend for Lager,1,https://github.com/Unity-Technologies/lager_rsyslog,Düşük popülerlik - Genel Unity paketi
+mongoose_jid,No description,1,https://github.com/Unity-Technologies/mongoose_jid,Düşük popülerlik - Genel Unity paketi
+unity_web_research,"Contains intermediate and compiled WebGPU Shading Language shaders from various Unity projects, to be used for shader compiler testing and profiling by WebGPU implementers.",17,https://github.com/Unity-Technologies/unity_web_research,Düşük popülerlik - Yapay zeka paketi
+jx3-terraform-gke,Jenkins X 3.x Infrastructure Git Template for Terraform and Google Cloud Platform for managing cloud resources,1,https://github.com/Unity-Technologies/jx3-terraform-gke,Düşük popülerlik - Genel Unity paketi
+com.unity.demoteam.mesh-to-sdf,"A light and fast real-time SDF generator, primarily for animated characters. The dynamic SDF can be used for all sorts of VFX. Also enables hair-to-character collisions in the new hair package.",615,https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf,Popüler - Yapay zeka paketi
+migrate,Database migrations. CLI and Golang library.,1,https://github.com/Unity-Technologies/migrate,Düşük popülerlik - Genel Unity paketi
+cost-analyzer-helm-chart,Kubecost helm chart,1,https://github.com/Unity-Technologies/cost-analyzer-helm-chart,Düşük popülerlik - Genel Unity paketi
+generate-plantuml-action,Generate uml diagrams with Plantuml Server and push them to your repository.,3,https://github.com/Unity-Technologies/generate-plantuml-action,Düşük popülerlik - Genel Unity paketi
+game-programming-patterns-demo,"A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook ""Level up your code with game programming patterns""",1531,https://github.com/Unity-Technologies/game-programming-patterns-demo,Çok popüler - Genel Unity paketi
+enumer,A Go tool to auto generate methods for your enums,1,https://github.com/Unity-Technologies/enumer,Düşük popülerlik - Genel Unity paketi
+com.unity.asset-store-tools,"With these tools, you can prepare, validate, and package your assets for submission through publisher.unity.com.",25,https://github.com/Unity-Technologies/com.unity.asset-store-tools,Düşük popülerlik - Araç paketi
+unity-gaming-services-cli,The unity gaming services (UGS) CLI is a unified command line interface tool for gaming services.,31,https://github.com/Unity-Technologies/unity-gaming-services-cli,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples.friends,"A Friends service sample project, to be published to the asset store.",17,https://github.com/Unity-Technologies/com.unity.services.samples.friends,Düşük popülerlik - Genel Unity paketi
+librdkafka,The Apache Kafka C/C++ library,1,https://github.com/Unity-Technologies/librdkafka,Düşük popülerlik - Genel Unity paketi
+SyntheticHomes,This repository will house builds of Unity's synthetic home generator.,93,https://github.com/Unity-Technologies/SyntheticHomes,Düşük popülerlik - Genel Unity paketi
+Classic-Sponza,Unity remaster of the classic Sponza scene. ,293,https://github.com/Unity-Technologies/Classic-Sponza,Orta düzey popülerlik - Genel Unity paketi
+MeshSyncDCCPlugins-Pipeline,"DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia",6,https://github.com/Unity-Technologies/MeshSyncDCCPlugins-Pipeline,Düşük popülerlik - Araç paketi
+download-artifact,No description,2,https://github.com/Unity-Technologies/download-artifact,Düşük popülerlik - Genel Unity paketi
+batch-publishing-node,No description,1,https://github.com/Unity-Technologies/batch-publishing-node,Düşük popülerlik - Genel Unity paketi
+com.unity.cv.synthetichumans,A package for creating Unity Perception compatible synthetic people.,106,https://github.com/Unity-Technologies/com.unity.cv.synthetichumans,Orta düzey popülerlik - Genel Unity paketi
+escalus,An XMPP client library in Erlang for conveniently testing XMPP servers,2,https://github.com/Unity-Technologies/escalus,Düşük popülerlik - Genel Unity paketi
+CharacterControllerSamples,Sample projects for the Unity.CharacterController package,278,https://github.com/Unity-Technologies/CharacterControllerSamples,Orta düzey popülerlik - Genel Unity paketi
+FlatSharp,"Fast, idiomatic C# implementation of Flatbuffers",45,https://github.com/Unity-Technologies/FlatSharp,Düşük popülerlik - Genel Unity paketi
+UnityVolumeRendering,"Volume rendering, implemented in Unity3D. Want to support my project? Donate some money to Red Cross and send me a screenshot/message/issue, and I'll be greatly motivated! :) Any amount is welcome!",17,https://github.com/Unity-Technologies/UnityVolumeRendering,Düşük popülerlik - Render veya grafik paketi
+flatbuffers,FlatBuffers: Memory Efficient Serialization Library,9,https://github.com/Unity-Technologies/flatbuffers,Düşük popülerlik - Genel Unity paketi
+ECS-Network-Racing-Sample,ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices,590,https://github.com/Unity-Technologies/ECS-Network-Racing-Sample,Popüler - Genel Unity paketi
+rival-documentation,Documentation website for Rival - DOTS Character Controller,74,https://github.com/Unity-Technologies/rival-documentation,Düşük popülerlik - Genel Unity paketi
+Volume_Lights_System,"This project demonstrates how URP's DepthNormals prepass can be used to create mesh-volume-based lights; that is, the illusion of simple lighting rendered on the backfaces of box meshes placed in a scene.",19,https://github.com/Unity-Technologies/Volume_Lights_System,Düşük popülerlik - Render veya grafik paketi
+ziva-vfx-utils,No description,15,https://github.com/Unity-Technologies/ziva-vfx-utils,Düşük popülerlik - Genel Unity paketi
+F3Net,"Codes for the AAAI 2020 paper ""F3Net: Fusion, Feedback and Focus for Salient Object Detection""",5,https://github.com/Unity-Technologies/F3Net,Düşük popülerlik - Yapay zeka paketi
+auction-gym,AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.,4,https://github.com/Unity-Technologies/auction-gym,Düşük popülerlik - Genel Unity paketi
+leaky-repo,Benchmarking repo for secrets scanning,2,https://github.com/Unity-Technologies/leaky-repo,Düşük popülerlik - Genel Unity paketi
+terraform-github-actions,GitHub actions for terraform,2,https://github.com/Unity-Technologies/terraform-github-actions,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples.parties,A Unity project containing assets and code creating a Game Party experience using the Lobby Service.,9,https://github.com/Unity-Technologies/com.unity.services.samples.parties,Düşük popülerlik - Yapay zeka paketi
+OpenTimelineIO-C-Bindings,C bindings for the OpenTimelineIO Library (http://opentimeline.io),1,https://github.com/Unity-Technologies/OpenTimelineIO-C-Bindings,Düşük popülerlik - Genel Unity paketi
+octodns-googlecloud,Google Cloud DNS provider for octoDNS,1,https://github.com/Unity-Technologies/octodns-googlecloud,Düşük popülerlik - Genel Unity paketi
+pipelines,Machine Learning Pipelines for Kubeflow,4,https://github.com/Unity-Technologies/pipelines,Düşük popülerlik - Genel Unity paketi
+ros2cs,"A C# (.Net) implementation of ros2 client library (rcl), enabling  communication between ros2 ecosystem and C#/.Net applications such as Unity3D",4,https://github.com/Unity-Technologies/ros2cs,Düşük popülerlik - Genel Unity paketi
+AnthroNet,Unity's Privacy-Preserving Novel Human Body Model Trained Solely on Synthetic Data and Corresponding Dense Anthropometric Measurements,34,https://github.com/Unity-Technologies/AnthroNet,Düşük popülerlik - Yapay zeka paketi
+WindowsDevicePortalWrapper,A client library that wraps the Windows Device Portal REST APIs.,1,https://github.com/Unity-Technologies/WindowsDevicePortalWrapper,Düşük popülerlik - Genel Unity paketi
+ct-react-test,"A simple React app to interact with the commercetools APIs, fetching products and price selection logic",2,https://github.com/Unity-Technologies/ct-react-test,Düşük popülerlik - Araç paketi
+hunter,CMake driven cross-platform package manager for C/C++.,2,https://github.com/Unity-Technologies/hunter,Düşük popülerlik - Genel Unity paketi
+poco,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",3,https://github.com/Unity-Technologies/poco,Düşük popülerlik - Genel Unity paketi
+public-support-scripts,No description,1,https://github.com/Unity-Technologies/public-support-scripts,Düşük popülerlik - Genel Unity paketi
+unity-cloud-reference-project,A Unity project for building an immersive experience to facilitate interactive real-time 3D design reviews,53,https://github.com/Unity-Technologies/unity-cloud-reference-project,Düşük popülerlik - Genel Unity paketi
+zapdriver,"Blazing fast, Zap-based Stackdriver logging.",1,https://github.com/Unity-Technologies/zapdriver,Düşük popülerlik - Genel Unity paketi
+unity-gaming-services-go-sdk,Golang SDK for Unity Gaming Services: https://unity.com/solutions/gaming-services,10,https://github.com/Unity-Technologies/unity-gaming-services-go-sdk,Düşük popülerlik - Genel Unity paketi
+create-data-open-metadata,"Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",3,https://github.com/Unity-Technologies/create-data-open-metadata,Düşük popülerlik - Genel Unity paketi
+terraform-google-ingress-to-gke-internal,"Terraform module for building more reliable ingresses to GKE workloads, including multi-region support",1,https://github.com/Unity-Technologies/terraform-google-ingress-to-gke-internal,Düşük popülerlik - Genel Unity paketi
+terraform-google-backend-to-gke-internal,Terraform module to create Backend Service to GKE Workload,1,https://github.com/Unity-Technologies/terraform-google-backend-to-gke-internal,Düşük popülerlik - Genel Unity paketi
+terraform-google-http-ingress-internal,Terraform module to build HTTP/S load balancing ingresses similar to GKE ingress automation (but better),1,https://github.com/Unity-Technologies/terraform-google-http-ingress-internal,Düşük popülerlik - Genel Unity paketi
+terraform-google-certificate-map-simple-internal,Simple creation of GCP Cloud Certificate Manager maps,1,https://github.com/Unity-Technologies/terraform-google-certificate-map-simple-internal,Düşük popülerlik - Genel Unity paketi
+go-lager-internal,"Logs (from golang) in JSON, easy for computers to parse, people to read, programmers to generate.  Efficient.",1,https://github.com/Unity-Technologies/go-lager-internal,Düşük popülerlik - Genel Unity paketi
+tools-gcp-internal,Tools for working with GCP.  Currently mostly GCP metrics.  Includes an exporter to Prometheus.,2,https://github.com/Unity-Technologies/tools-gcp-internal,Düşük popülerlik - Araç paketi
+go-tutl-internal,A Trivial Unit Testing Library (for Go),1,https://github.com/Unity-Technologies/go-tutl-internal,Düşük popülerlik - Genel Unity paketi
+master,Converts protocol buffers to Avro.,1,https://github.com/Unity-Technologies/master,Düşük popülerlik - Genel Unity paketi
+protobuf-avro-go,Converts protocol buffers to Avro.,1,https://github.com/Unity-Technologies/protobuf-avro-go,Düşük popülerlik - Genel Unity paketi
+echozap,Public Fork - Middleware for Golang Echo framework that provides integration with Uber´s Zap logging library for logging HTTP requests,2,https://github.com/Unity-Technologies/echozap,Düşük popülerlik - Genel Unity paketi
+WaterScenes,A collection of scenes showcasing usage of the new HDRP water system,201,https://github.com/Unity-Technologies/WaterScenes,Orta düzey popülerlik - Genel Unity paketi
+Megacity-2019,"Megacity is a sample showcasing streaming a large scale environment. It also contains an action-packed, multiplayer shooter mode. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously.",491,https://github.com/Unity-Technologies/Megacity-2019,Orta düzey popülerlik - Yapay zeka paketi
+packer-plugin-googlecompute,Packer plugin for Google Compute Builder,3,https://github.com/Unity-Technologies/packer-plugin-googlecompute,Düşük popülerlik - Genel Unity paketi
+data-dead-mans-switch,A bypass monitoring prober,4,https://github.com/Unity-Technologies/data-dead-mans-switch,Düşük popülerlik - Genel Unity paketi
+brg-shooter,Unity blog-post sample showing BatchRendererGroup and Burst/JobSystem. Focus is high performance even on budget mobile devices. Unity 2022.3.5 or above required,278,https://github.com/Unity-Technologies/brg-shooter,Orta düzey popülerlik - Render veya grafik paketi
+UnityLiveCapture,Unity Live Capture package and companion apps (Face Capture and Virtual Camera).,33,https://github.com/Unity-Technologies/UnityLiveCapture,Düşük popülerlik - Genel Unity paketi
+serverless-api-cloudfront-for-serverless-v3-fork,Serverless Plugin - CloudFront distribution in front of your API Gateway,1,https://github.com/Unity-Technologies/serverless-api-cloudfront-for-serverless-v3-fork,Düşük popülerlik - Genel Unity paketi
+HDR-Calibration-Sample,This HDR Calibration Sample project shows how an HDR calibration menu with Neutral Tonemapping can be implemented.,21,https://github.com/Unity-Technologies/HDR-Calibration-Sample,Düşük popülerlik - Genel Unity paketi
+psl-content,A collection of sample content for the PolySpatial team.,13,https://github.com/Unity-Technologies/psl-content,Düşük popülerlik - Genel Unity paketi
+com.unity.services.samples.multiplayer-chess-cloud-code,No description,24,https://github.com/Unity-Technologies/com.unity.services.samples.multiplayer-chess-cloud-code,Düşük popülerlik - Genel Unity paketi
+ind-bermuda-opensfm,Open source Structure-from-Motion pipeline,8,https://github.com/Unity-Technologies/ind-bermuda-opensfm,Düşük popülerlik - Genel Unity paketi
+UnityKeyer,Use the Unity Keyer to create an alpha mask from green screen images in the Unity Editor.,33,https://github.com/Unity-Technologies/UnityKeyer,Düşük popülerlik - Genel Unity paketi
+UnityOSCProtocolSupport,Send and receive control messages between the Unity Editor and external devices using the Open Sound Control (OSC) protocol.,32,https://github.com/Unity-Technologies/UnityOSCProtocolSupport,Düşük popülerlik - Genel Unity paketi
+cicd-unity-project-exampleunity,An example Unity project.,1,https://github.com/Unity-Technologies/cicd-unity-project-exampleunity,Düşük popülerlik - Genel Unity paketi
+sentis-samples,Sentis samples internal development repository. Contains example and template projects for Sentis package use.,178,https://github.com/Unity-Technologies/sentis-samples,Orta düzey popülerlik - Yapay zeka paketi
+UnityBlackmagicVideo,"The Blackmagic Video package helps you leverage video capture cards from Blackmagic Design to input and output pro-grade video and audio in the Unity Editor and runtime builds, unlocking new workflows for users working in film, virtual production, live events, and broadcast.",22,https://github.com/Unity-Technologies/UnityBlackmagicVideo,Düşük popülerlik - Genel Unity paketi
+mr-example-meta-openxr,"Mixed Reality example project featuring integration of OpenXR, XR Interaction Toolkit, XR Hands, AR Foundation and the Meta-OpenXR package. This project will allow creators to quickly get up and running with their own mixed reality games and apps using the Meta Quest 2, Quest Pro and Quest 3 devices.",106,https://github.com/Unity-Technologies/mr-example-meta-openxr,Orta düzey popülerlik - Genel Unity paketi
+CastleCore,"Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter",1,https://github.com/Unity-Technologies/CastleCore,Düşük popülerlik - Genel Unity paketi
+Newtonsoft.Json,Json.NET is a popular high-performance JSON framework for .NET,1,https://github.com/Unity-Technologies/Newtonsoft.Json,Düşük popülerlik - Genel Unity paketi
+DotNetSeleniumExtras,Extra utilities for use with the Selenium .NET language bindings,2,https://github.com/Unity-Technologies/DotNetSeleniumExtras,Düşük popülerlik - Genel Unity paketi
+selenium,A browser automation framework and ecosystem.,2,https://github.com/Unity-Technologies/selenium,Düşük popülerlik - Genel Unity paketi
+appium-dotnet-client,Extension to the official Selenium dotnet webdriver ,2,https://github.com/Unity-Technologies/appium-dotnet-client,Düşük popülerlik - Genel Unity paketi
+fluong-com.unity.netcode.gameobjects-test,Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.,1,https://github.com/Unity-Technologies/fluong-com.unity.netcode.gameobjects-test,Düşük popülerlik - Genel Unity paketi
+fluong-com.unity.netcode.gameobjects-test2,Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.,1,https://github.com/Unity-Technologies/fluong-com.unity.netcode.gameobjects-test2,Düşük popülerlik - Genel Unity paketi
+AppiumWebDriverAgent,A WebDriver server for iOS and tvOS,2,https://github.com/Unity-Technologies/AppiumWebDriverAgent,Düşük popülerlik - Genel Unity paketi
+unity-cloud-asset-manager-for-blender,"An example of Unity Cloud Asset Manager integration with Blender, to demonstrate how to use the Unity Cloud Python SDK.",22,https://github.com/Unity-Technologies/unity-cloud-asset-manager-for-blender,Düşük popülerlik - Genel Unity paketi
+ucb-URPAmosphericScattering,No description,7,https://github.com/Unity-Technologies/ucb-URPAmosphericScattering,Düşük popülerlik - Genel Unity paketi
+ucb-boss-room-tests,"A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",8,https://github.com/Unity-Technologies/ucb-boss-room-tests,Düşük popülerlik - Genel Unity paketi
+k8s-config-connector,"GCP Config Connector, a Kubernetes add-on for managing GCP resources",2,https://github.com/Unity-Technologies/k8s-config-connector,Düşük popülerlik - Genel Unity paketi
+com.unity.live-capture.stype,The Stype package extends the Live Capture package functionality to capturing data from camera tracking devices that support the Stype protocol.,11,https://github.com/Unity-Technologies/com.unity.live-capture.stype,Düşük popülerlik - Genel Unity paketi
+a11y-public-sample,Sample project using the Unity Accessibility APIs,13,https://github.com/Unity-Technologies/a11y-public-sample,Düşük popülerlik - Genel Unity paketi
+megacity-metro,"Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.",639,https://github.com/Unity-Technologies/megacity-metro,Popüler - Genel Unity paketi
+gocyclo,Calculate cyclomatic complexities of functions in Go source code.,2,https://github.com/Unity-Technologies/gocyclo,Düşük popülerlik - Genel Unity paketi
+Industry-Product-Configurator,"This is a light weight product configurator framework that supports Visibility, Material and transform variants",30,https://github.com/Unity-Technologies/Industry-Product-Configurator,Düşük popülerlik - Genel Unity paketi
+fx-profiler-server,Firefox Profiler server and data storage infrastructure ,1,https://github.com/Unity-Technologies/fx-profiler-server,Düşük popülerlik - Genel Unity paketi
+fx-profiler-frontend,Firefox Profiler — Web app for Firefox performance analysis,2,https://github.com/Unity-Technologies/fx-profiler-frontend,Düşük popülerlik - Genel Unity paketi
+usamply,Command-line sampling profiler for macOS and Linux,4,https://github.com/Unity-Technologies/usamply,Düşük popülerlik - Genel Unity paketi
+libunwind,"libunwind official github repo (in need of new / additional maintainer, mail/open issue if interested)",1,https://github.com/Unity-Technologies/libunwind,Düşük popülerlik - Yapay zeka paketi
+ECSGalaxySample,ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets,184,https://github.com/Unity-Technologies/ECSGalaxySample,Orta düzey popülerlik - Genel Unity paketi
+pixyz-sdk-samples,This repository contains samples for the pixyz SDK ,5,https://github.com/Unity-Technologies/pixyz-sdk-samples,Düşük popülerlik - Yapay zeka paketi
+data-protobuf-go,Go support for Google's protocol buffers,1,https://github.com/Unity-Technologies/data-protobuf-go,Düşük popülerlik - Genel Unity paketi
+pict,Pairwise Independent Combinatorial Tool,2,https://github.com/Unity-Technologies/pict,Düşük popülerlik - Yapay zeka paketi
+com.unity.ide.visualstudio,Mirror of com.unity.ide.visualstudio,2,https://github.com/Unity-Technologies/com.unity.ide.visualstudio,Düşük popülerlik - Genel Unity paketi
+Per-Object_Outline_RenderGraph_RendererFeature_Example,"Demonstration of creating an Outline Effect for Render Graph using Unity 6, which allows per-object renderer selection.",12,https://github.com/Unity-Technologies/Per-Object_Outline_RenderGraph_RendererFeature_Example,Düşük popülerlik - Render veya grafik paketi
+unity-cloud-python-sdk-samples,Various samples that show how to use the Unity Cloud Python SDK.,1,https://github.com/Unity-Technologies/unity-cloud-python-sdk-samples,Düşük popülerlik - Genel Unity paketi
+mps-legacy-ticket-manager,Data Center Ticket Management App,1,https://github.com/Unity-Technologies/mps-legacy-ticket-manager,Düşük popülerlik - Genel Unity paketi
+gitea-sdk,No description,1,https://github.com/Unity-Technologies/gitea-sdk,Düşük popülerlik - Genel Unity paketi
+Unite24ConnectingTheDOTS,## Unite 2024 - Connecting the DOTS: Let's Make a game with Entities This is the Game presented during Unite 2024,21,https://github.com/Unity-Technologies/Unite24ConnectingTheDOTS,Düşük popülerlik - Genel Unity paketi
+yeetd,yeetd is a lil' daemon that watches for specific CPU-intensive Simulator processes and stops them in their tracks!,1,https://github.com/Unity-Technologies/yeetd,Düşük popülerlik - Genel Unity paketi
